@@ -1,0 +1,32 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,notes,comments
+1,Pr. Henry's Army,Landskron to Hoyerswerda,58,93.34,2.1,2.1,44.45,22-Sep-1759,24-Sep-1759,NA,NA,NA,NA,NA,,
+2,Pr. Henry's Army,Landsberg to Breslau,90,144.84,3,3,48.28,Aug-1760,Aug-1760,NA,NA,NA,NA,NA,,
+3,Pr. Eugene of Wurtemberg,To relief of Berlin,40,64.37,1,1,64.37,Oct-1760,Oct-1760,NA,NA,NA,NA,NA,5000 men,
+4,French Corps d'Elite,Tortona to Valencia,44,70.81,1.5,1.5,47.21,6-May-1796,7-May-1796,NA,NA,NA,NA,NA,,
+5,Army of Italy,Down Brenta Valley,50,80.47,2.5,2.5,32.19,5-Sep-1796,8-Sep-1796,NA,NA,NA,NA,NA,,Two combats on the way.
+6,Massena's Army,"Bassano, Vicenza, Ronco",42,67.59,2.5,2.5,27.04,8-Sep-1796,10-Sep-1796,NA,NA,NA,NA,NA,,Incl. battle of Bassano
+7,Augereau's Army,"Bassano, Padua, Legnano",60,96.56,3.5,3.5,27.59,8-Sep-1796,11-Sep-1796,NA,NA,NA,NA,NA,,Incl. battle of Bassano
+8,Army of Italy,Brenta Valley,100+,160.93,6,6,26.82,5-Sep-1796,11-Sep-1796,NA,NA,NA,NA,NA,100-110 miles,(Note 1)
+9,Massena's Army,"Verona, Rivoli, Roverbello",45,72.42,1.5,1.5,48.28,13-Jan-1797,15-Jan-1797,NA,NA,NA,NA,NA,,(Note 2)
+10,Army of Orient,Acre to Cairo,400,643.74,26,26,24.76,21-May-1799,14-Jun-1799,NA,NA,NA,Desert,NA,,
+11,Suwarrov's Army,Alexandria to Tidone,50,80.47,1.5,1.5,53.64,16-Jun-1799,17-Jun-1799,NA,NA,NA,NA,NA,,
+12,Grand Army,Channel to Rhine,400,643.74,26,26,24.76,Sep-1805,Sep-1805,NA,NA,NA,NA,NA,,Six rest-days
+13,Friant's Division,Leopoldsdorf to Nicholsburg,53,85.30,1,1,85.30,29-Nov-1805,30-Nov-1805,NA,NA,NA,NA,NA,,
+14,Friant's Division,Nicholsburg to Raigern,25,40.23,0.9,0.9,44.70,30-Nov-1805,1-Dec-1805,NA,NA,NA,NA,NA,,
+15,Friant's Division,Leopoldsdorf to Austerlitz,112,180.25,5,5,36.05,29-Nov-1805,4-Dec-1805,NA,NA,NA,NA,NA,,(Note 3)
+16,Imperial Guard,Paris to Osnaburg,435,700.06,13,13,53.85,Sep-1806,Sep-1806,NA,NA,NA,NA,NA,,(Note 4)
+17,Junot's Army,Salamanca-Alcantara,158,254.28,5,5,50.86,Nov-1807,Nov-1807,NA,NA,NA,NA,NA,,
+18,Hope's Army,To join Moore,47,75.64,1.5,1.5,50.43,1-Dec-1808,2-Dec-1808,NA,NA,NA,NA,NA,,
+19,Napoleon's Army,Madrid towards Benavente,230,370.15,12,12,30.85,20-Dec-1808,31-Dec-1808,NA,NA,NA,NA,NA,,
+20,Imperial Guard,Over Guadaramas,50,80.47,2,2,40.23,21-Dec-1808,22-Dec-1808,NA,NA,Moun ain,NA,Wet,,In heavy storm over mountains.
+21,Massena's Army,Aichach to Pfaffenhofen,30,48.28,1,1,48.28,19-Apr-1809,19-Apr-1809,NA,NA,NA,NA,NA,,
+22,Friant's Divison,"Hanau, Ratisbon, Thann",40,64.37,1.4,1.4,45.98,18-Apr-1809,19-Apr-1809,NA,NA,NA,NA,NA,,And helped win victory of Thann.
+23,Ney's Army,Aranda to Almazan,60,96.56,1.7,1.7,56.80,20-Apr-1809,21-Apr-1809,NA,NA,NA,NA,NA,,
+24,Ney's Army,Aranda to Soria,80,128.75,3,3,42.92,20-Apr-1809,22-Apr-1809,NA,NA,Mountain,NA,NA,,Bad mountain roads.
+25,Craufurd's Force,Towards Talavera,43,69.20,0.9,0.9,76.89,28-Jul-1809,29-Jul-1809,NA,NA,NA,NA,NA,,Hot day.
+26,Marmont's Army,On Douro,50,80.47,2,2,40.23,15-Jul-1812,17-Jul-1812,NA,NA,NA,NA,NA,40-60 miles,With only temporary rest.
+27,Imperial Guard,Lowenberg to Dresden,87,140.01,3,3,46.67,24-Aug-1813,26-Aug-1813,NA,NA,NA,NA,NA,,Of which 29 miles in 24 hours.
+28,Ney and Imperial Guard,Montmirail to Guignes,50,80.47,1.5,1.5,53.64,15-Feb-1814,16-Feb-1814,NA,NA,NA,NA,NA,,Partly by teams.
+29,Russian Foot Guard,After Fere Champenoise,48,77.25,1.1,1.1,70.23,Mar-1814,Mar-1814,NA,NA,NA,NA,NA,,March on Paris (doubtful).
+30,Napoleon and Elba Army,Golfe St. Juan to Grenoble,180,289.68,6,6,48.28,1-Mar-1815,6-Mar-1815,NA,NA,NA,NA,NA,,
+31,Napoleon and Elba Army,Golfe St. Juan to Paris,500,804.67,20,20,40.23,1-Mar-1815,20-Mar-1815,NA,NA,NA,NA,NA,,

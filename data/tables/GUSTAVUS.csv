@@ -1,0 +1,9 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days_1,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,comments
+1,Gustavus,Donauworth to Naumburg,270,434.52,18,18,24.14,Oct 1632,Nov 1632,NA,All arms,NA,NA,NA,"20,000",Bad roads
+2,Conde,Moselle to Frieburg,210,337.96,13,13,26.00,Aug 1644,Aug 1644,NA,All arms,NA,NA,NA,"10,000",
+3,Turenne,Scheldt-Sambre to Lys,75,120.70,3,3,40.23,1657,1657,NA,All arms,NA,NA,NA,"30,000",
+4,Turenne,Rhine to Sinsheim,90,144.84,4,4,36.21,Jun 1674,Jun 1674,NA,All arms,NA,NA,NA,"9,000",
+5,Charles XII,Vistula to Oder,180,289.68,10,10,28.97,Oct 1704,Oct 1704,NA,All Arms,NA,NA,NA,"20,000",Bad roads
+6,Eugene,Reggio to Villa Stellona,240,386.24,16,16,24.14,Aug 1706,Aug 1706,NA,All Arms,NA,NA,NA,"25,000",See Note 1
+7,Marlborough,Brussels to Oudenarde,40,64.37,2,2,32.19,Jul 1708,Jul 1708,NA,All Arms,NA,NA,NA,"65,000",
+8,Duke of Hesse-Cassel,Douay to Oburg & Havre,49,78.86,2.33,2.33,33.80,Sep 1709,Sep 1709,NA,All arms,NA,NA,NA,"10,000",

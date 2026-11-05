@@ -1,0 +1,41 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_yards,distance_km,time_days,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,notes,comments,battle_casualties
+1,30th ID,Geilenkirchen,5000,4.57,NU,1,4.57,19-Sep-44,19-Sep-44,Lite,Foot,Mixed,NA,NA,"13,952",,,44
+2,30th ID,Alsdorf,3500,3.20,NU,1,3.20,07-Oct-44,07-Oct-44,Lite,Foot,Mixed,NA,NA,"13,049",,,132
+3,1st ID,Wurselen,1000,0.91,NU,1,0.91,09-Oct-44,09-Oct-44,Heavy,Foot,Mixed,NA,NA,"13,834",,,130
+4,1st ID,Verlautenheide,800,0.73,NU,1,0.73,08-Oct-44,08-Oct-44,Heavy,Foot,Mixed,NA,NA,"14,187",,,98
+5,30th ID,Alsdorf,1500,1.37,NU,1,1.37,08-Oct-44,08-Oct-44,Med-Hvy,Foot,Mixed,NA,NA,"12,922",,,124
+6,30th ID,Bardenburg,2000,1.83,NU,1,1.83,09-Oct-44,09-Oct-44,Medium,Foot,Mixed,NA,NA,"13,221",,,138
+7,28th ID,Schmidt,1500,1.37,NU,1,1.37,02-Nov-44,02-Nov-44,Medium,Foot,Close,Forest,NA,"12,661",,,230
+8,28th ID,Schmidt,5500,5.03,NU,1,5.03,03-Nov-44,03-Nov-44,Med-Lt,Foot,Close,Forest,NA,"13,833",,,252
+9,28th ID,Vossenach,2500,2.29,NU,1,2.29,10-Nov-44,10-Nov-44,Heavy,Foot,Close,Forest,NA,"13,663",,,972
+10,104th ID,Verlautenheide,1400,1.28,NU,1,1.28,16-Nov-44,16-Nov-44,Heavy,Foot,Mixed,NA,NA,"14,298",,,93
+11,1st ID,Schenenhutte,1000,0.91,NU,1,0.91,17-Nov-44,17-Nov-44,Med-Hvy,Foot,Close,Forest,NA,"14,113",,,164
+12,30th ID,Wurselen,1800,1.65,NU,1,1.65,16-Nov-44,16-Nov-44,Lite,Foot,Open,NA,NA,"14,144",,,158
+13,4th ID,Grosshau,1000,0.91,NU,1,0.91,18-Nov-44,18-Nov-44,Heavy,Foot,Close,Forest,NA,"14,365",,,336
+14,104th ID,Eschweiler,2500,2.29,NU,1,2.29,19-Nov-44,19-Nov-44,Med-Lt,Foot,Mixed,NA,NA,"13,981",,,197
+15,104th ID,Eschweiler,2000,1.83,NU,1,1.83,22-Nov-44,22-Nov-44,Med-Lt,Foot,Mixed,NA,NA,"13,998",,,72
+16,4th ID,Weisser Weh Creek,2500,2.29,NU,5,0.46,16-Nov-44,20-Nov-44,Heavy,Foot,Close,Forest,NA,"14,101",,,1433
+17,8th ID,Huertgen,500,0.46,NU,1,0.46,21-Nov-44,21-Nov-44,Heavy,Foot,Close,Forest,NA,"13,978",,,38
+18,8th ID,Huertgen,400,0.37,NU,1,0.37,16-Nov-44,16-Nov-44,Heavy,Foot,Close,Forest,NA,"13,509",,,290
+19,4th ID,Schevenhutte,600,0.55,NU,1,0.55,22-Nov-44,22-Nov-44,Med-Hvy,Foot,Close,Forest,NA,"13,759",,,267
+20,4th ID,Schevenhutte,600,0.55,NU,1,0.55,23-Nov-44,23-Nov-44,Heavy,Foot,Close,Forest,NA,"13,884",,,322
+21,4th ID,Wenau Forest,800,0.73,NU,1,0.73,25-Nov-44,25-Nov-44,Heavy,Foot,Close,Forest,NA,"13,594",,,183
+22,104th ID,Inden,2000,1.83,NU,1,1.83,28-Nov-44,28-Nov-44,Heavy,Foot,Close,Forest,NA,"14,153",,,79
+23,4th ID,Grosshau,800,0.73,NU,1,0.73,27-Nov-44,27-Nov-44,Heavy,Foot,Mixed,NA,NA,"13,859",,,213
+24,1st ID,Schevenhutte,1000,0.91,NU,1,0.91,28-Nov-44,28-Nov-44,Lite,Foot,Close,Forest,NA,"13,937",,,107
+25,8th ID,Hurtgen,800,0.73,NU,1,0.73,27-Nov-44,27-Nov-44,Heavy,Foot,Mixed,NA,NA,"13,597",,,46
+26,1st ID,Huertgen,500,0.46,NU,1,0.46,17-Nov-44,17-Nov-44,Med-Hvy,Foot,Close,Forest,NA,"13,967",,,265
+27,8th ID,Bergstein,1000,0.91,NU,1,0.91,03-Dec-44,03-Dec-44,Medium,Foot,Mixed,NA,NA,"12,830",,,136
+28,84th ID,Roer River,2500,2.29,NU,4,0.57,01-Dec-44,04-Dec-44,Heavy,Foot,Open,NA,NA,"13,459",,,1001
+29,102nd ID,Roer River,2500,2.29,NU,4,0.57,01-Dec-44,04-Dec-44,Heavy,Foot,Open,NA,NA,"13,346",,,991
+30,104th ID,Pier,2000,1.83,NU,1,1.83,10-Dec-44,10-Dec-44,Heavy,Foot,Mixed,NA,NA,"13,356",,,115
+31,83rd ID,Gurzenich,3000,2.74,NU,1,2.74,13-Dec-44,13-Dec-44,Medium,Foot,Mixed,NA,NA,"13,017",,,337
+32,78th ID,Rollesbroich,2000,1.83,NU,1,1.83,13-Dec-44,13-Dec-44,Lite,Foot,Open,NA,NA,"13,868",,,63
+33,2nd ID,Arenburg,3000,2.74,NU,1,2.74,13-Dec-44,13-Dec-44,Lite,Foot,Open,NA,NA,"14,137",,,138
+34,99th ID,Arenburg,1200,1.10,NU,1,1.10,13-Dec-44,13-Dec-44,Lite,Foot,Open,NA,NA,"13,676",,,90
+35,83rd ID,Berzbuir,700,0.64,NU,1,0.64,15-Dec-44,15-Dec-44,Heavy,Foot,Mixed,NA,NA,"12,485",,,251
+36,82nd ID,Meyerode,6000,5.49,NU,1,5.49,28-Jan-45,28-Jan-45,Lite,Foot,Mixed,NA,NA,"9,618",,,26
+37,9th ID,Rohren,5000,4.57,NU,1,4.57,30-Jan-45,30-Jan-45,Lite,Foot,Open,NA,NA,"14,144",,,43
+38,2nd ID,Wetzfeld,3000,2.74,NU,1,2.74,30-Jan-45,30-Jan-45,Lite,Foot,Open,NA,NA,"13,884",,,63
+39,1st ID,Honsfeld,4800,4.39,NU,1,4.39,30-Jan-45,30-Jan-45,Lite,Foot,Open,NA,NA,"13,863",,,73
+40,2nd ID,Schoneseiffen,6800,6.22,NU,1,6.22,02-Feb-45,02-Feb-45,Lite,Foot,Open,NA,NA,"13,702",,,192

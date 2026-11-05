@@ -1,0 +1,23 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,notes,comments
+1,XIX Corps,Border to Sedan & Meuse R.,100,160.93,3,3,53.64,10-May-41,12-May-41,LITE,MOTOR,NA,NA,NA,CORPS,Guderian,
+2,XIX Corps,Capture Sedan & Cross Meuse R.,17.67,28.44,4,4,7.11,13-May-41,16-May-41,HVY,MOTOR,NA,NA,NA,CORPS,Guderian,
+3,XIX Corps,Sedan to Channel,175,281.64,19,19,14.82,17-May-41,04-Jun-41,LITE,MOTOR,NA,NA,NA,CORPS,Guderian,
+4,XIX Corps,Overall,300,482.80,26,26,18.57,10-May-41,04-Jun-41,LITE,MOTOR,NA,NA,NA,CORPS,Guderian,
+5,2nd Panzer Group,Barbarossa Advance from Bug R.,35,56.33,1,1,56.33,22-Jun-41,22-Jun-41,LITE,MOTOR,NA,NA,NA,GROUP,Guderian,
+6,2nd Panzer Group,Barbarossa Bug R. to Minsk,200,321.87,6,6,53.64,22-Jun-41,27-Jun-41,LITE,MOTOR,NA,NA,NA,GROUP,Guderian,
+7,2nd Panzer Group,Barbarossa Minsk to Smolensk,210,337.96,18,18,18.78,28-Jun-41,15-Jul-41,LITE,MOTOR,NA,NA,NA,GROUP,Guderian,
+8,2nd Panzer Group,Overall,410,659.83,24,24,27.49,22-Jun-41,15-Jul-41,LITE,MOTOR,NA,NA,NA,GROUP,Guderian,
+9,Afrika Korps,Advance To Mersa Matruh,100,160.93,1,1,160.93,25-Jun-42,25-Jun-42,LITE,MOTOR,DESERT,NA,NA,CORPS,Rommel,Forward echelons only
+10,British 8th Army,El Alamein Offensive,18,28.97,13,13,2.23,23-Oct-42,04-Nov-42,HVY,MOTOR,DESERT,NA,NA,ARMY,Montgomery,
+11,US Third Army,Avranches to Le Mans,75,120.70,3,3,40.23,04-Aug-44,06-Aug-44,LITE,MOTOR,NA,NA,NA,CORPS,Patton,XV Corps
+12,US Third Army,Le Mans to Dreux,90,144.84,8,8,18.11,07-Aug-44,14-Aug-44,LITE,MOTOR,NA,NA,NA,CORPS,Patton,XV Corps
+13,US Third Army,Mele-sur-Sarthe to Nogent-le-Roi,60,96.56,1,1,96.56,15-Aug-44,15-Aug-44,LITE,MOTOR,NA,NA,NA,CORPS,Patton,XX Corps
+14,US Third Army,Nogent-le-Roi to Chartres,35,56.33,1,1,56.33,16-Aug-44,16-Aug-44,LITE,MOTOR,NA,NA,NA,CORPS,Patton,XX Corps
+15,US Third Army,Chartres to Chateau Thierry,100,160.93,9,9,17.88,17-Aug-44,25-Aug-44,LITE,MOTOR,NA,NA,NA,CORPS,Patton,XX Corps
+16,US Third Army,Le Mans to Orleans,65,104.61,13,13,8.05,04-Aug-44,16-Aug-44,HVY,MOTOR,NA,NA,NA,CORPS,Patton,XII Corps
+17,US Third Army,Orleans to Troyes,105,168.98,9,9,18.78,17-Aug-44,25-Aug-44,LITE,MOTOR,NA,NA,NA,CORPS,Patton,XII Corps
+18,US Third Army,Overall,255,410.38,22,22,18.65,04-Aug-44,25-Aug-44,LITE,MOTOR,NA,NA,NA,ARMY,Patton,
+19,Six-Day War,Sinai,50,80.47,1,1,80.47,05-Jun-67,05-Jun-67,LITE,MOTOR,DESERT,NA,NA,NA,,"""Israeli armored spearheads"""
+20,Six-Day War,To El Arish & Beyond,75,120.70,1,1,120.70,05-Jun-67,05-Jun-67,LITE,MOTOR,DESERT,NA,NA,DIV,Tal,Tal Division
+21,Six-Day War,Bir Hasana to Gebel Heitan,70,112.65,1,1,112.65,07-Jun-67,07-Jun-67,LITE,MOTOR,DESERT,NA,NA,DIV,Yoffe,Yoffe Division
+22,Six-Day War,Gebel Heitan to Abu Zenima,120,193.12,1,1,193.12,08-Jun-67,08-Jun-67,LITE,MOTOR,DESERT,NA,NA,DIV,Yoffe,Yoffe Division

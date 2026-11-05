@@ -1,0 +1,82 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,notes,comments
+1,Battle of Moscow,16th Army,N/U,100,N/U,20,5.00,Dec-41,Dec-41,N/A,FOOT,N/A,N/A,N/A,Army,,
+2,"""",5th Army,N/U,33,N/U,20,1.65,Dec-41,Dec-41,N/A,FOOT,N/A,N/A,N/A,Army,,
+3,"""",49th Army,N/U,20,N/U,5,4.00,Dec-41,Dec-41,N/A,FOOT,N/A,N/A,N/A,Army,,
+4,"""",50th Army,N/U,56,N/U,12,4.67,Dec-41,Dec-41,N/A,FOOT,N/A,N/A,N/A,Army,,
+5,"""",10th Army,N/U,210,N/U,20,10.50,Dec-41,Dec-41,N/A,FOOT,N/A,N/A,N/A,Army,,
+6,"""",1st Shock Army,N/U,120,N/U,20,6.00,Dec-41,Dec-41,N/A,FOOT,N/A,N/A,N/A,Army,,
+7,"""",20th Army,N/U,110,N/U,20,5.50,Dec-41,Dec-41,N/A,FOOT,N/A,N/A,N/A,Army,,
+8,Toropeshku-Kholm,3rd Shock Army,N/U,230,N/U,21,10.95,Jan-42,Jan-42,N/A,FOOT,N/A,N/A,N/A,Army,,
+9,"""",4th Shock Army,N/U,260,N/U,21,12.38,Jan-42,Jan-42,N/A,FOOT,N/A,N/A,N/A,Army,,
+10,Battle on the Volga,21st Army,N/U,100,N/U,5,20.00,Nov-42,Nov-42,N/A,FOOT,N/A,N/A,N/A,Army,,
+11,"""",5th Tank Army,N/U,140,N/U,5,28.00,Nov-42,Nov-42,N/A,MOTOR,N/A,N/A,N/A,Army,,
+12,"""",65th Army,N/U,70,N/U,5,14.00,Nov-42,Nov-42,N/A,FOOT,N/A,N/A,N/A,Army,,
+13,"""",57th Army,N/U,50,N/U,4,12.50,Nov-42,Nov-42,N/A,FOOT,N/A,N/A,N/A,Army,,
+14,"""",1st Guards Army,N/U,220,N/U,15,14.67,Dec-42,Dec-42,N/A,FOOT,N/A,N/A,N/A,Army,,
+15,"""",3rd Guards Army,N/U,150,N/U,15,10.00,Dec-42,Dec-42,N/A,FOOT,N/A,N/A,N/A,Army,,
+16,Ostrogozsk-Rossoshchansk,40th Army,N/U,85,N/U,6,14.17,Jan-43,Jan-43,N/A,FOOT,N/A,N/A,N/A,Army,,
+17,Orlovsk,11th Guards Army,N/U,80,N/U,8,10.00,Jul-43,Jul-43,N/A,FOOT,N/A,N/A,N/A,Army,,
+18,Operations By Minsk R.,5th Shock Army,N/U,60,N/U,12,5.00,Aug-43,Aug-43,N/A,FOOT,N/A,N/A,N/A,Army,,
+19,Belgorod-Kharkov,5th Guards Army,N/U,90,N/U,9,10.00,Aug-43,Aug-43,N/A,FOOT,N/A,N/A,N/A,Army,,
+20,"""",1st Tank Army,N/U,100,N/U,5,20.00,Aug-43,Aug-43,N/A,MOTOR,N/A,N/A,N/A,Army,,
+21,Chernigov-Pripyat,65th Army,N/U,100,N/U,12,8.33,Sep-43,Sep-43,N/A,FOOT,N/A,N/A,N/A,Army,,
+22,Bug-Dnestr,1st Tank Army,N/U,200,N/U,10,20.00,Mar-44,Apr-44,N/A,MOTOR,N/A,N/A,N/A,Army,,40 km on best day
+23,"""",2nd Tank Army,N/U,140,N/U,4,35.00,Mar-44,Apr-44,N/A,MOTOR,N/A,N/A,N/A,Army,,50 km on best day
+24,"""",5th Guards Tank Army,N/U,140,N/U,4,35.00,Mar-44,Apr-44,N/A,MOTOR,N/A,N/A,N/A,Army,,50 km on best day
+25,"""",6th Tank Army,N/U,140,N/U,4,35.00,Mar-44,Apr-44,N/A,MOTOR,N/A,N/A,N/A,Army,,50 km on best day
+26,Belorussia,5th Guards Tank Army,N/U,160,N/U,4,40.00,Jun-44,Jun-44,N/A,MOTOR,N/A,N/A,N/A,Army,,60 km on best day
+27,"""",5th Army,N/U,150,N/U,8,18.75,Jun-44,Jun-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+28,"""",11th Guards Army,N/U,160,N/U,9,17.78,Jun-44,Jun-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+29,"""",49th Army,N/U,60,N/U,5,12.00,Jun-44,Jun-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+30,"""",3rd Army,N/U,80,N/U,5,16.00,Jun-44,Jun-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+31,"""",65th Army,N/U,65,N/U,5,13.00,Jun-44,Jun-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+32,Lvov-Sandomiersk,1st Guards Tank Army,N/U,260,N/U,14,18.57,Jul-44,Jul-44,N/A,MOTOR,N/A,N/A,N/A,Army,,45 km on best day
+33,"""",3rd Guards Tank Army,N/U,300,N/U,12,25.00,Jul-44,Jul-44,N/A,MOTOR,N/A,N/A,N/A,Army,,80 km on best day
+34,"""",4th Guards Army,N/U,180,N/U,12,15.00,Jul-44,Jul-44,N/A,FOOT,N/A,N/A,N/A,Army,,30 km on best day
+35,"""",3rd Guards Army,N/U,110,N/U,10,11.00,Jul-44,Jul-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+36,"""",60th Army,N/U,120,N/U,14,8.57,Jul-44,Jul-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+37,"""",38th Army,N/U,120,N/U,14,8.57,Jul-44,Jul-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+38,Yassy-Kishiniev,6th Tank Army,N/U,400,N/U,8,50.00,Aug-44,Aug-44,N/A,MOTOR,N/A,N/A,N/A,Army,,100 km on best day
+39,"""",27th Army,N/U,50,N/U,3,16.67,Aug-44,Aug-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+40,"""",52nd Army,N/U,60,N/U,3,20.00,Aug-44,Aug-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+41,"""",37th Army,N/U,120,N/U,7,17.14,Aug-44,Aug-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+42,Memel (Taurag),5th Guards Tank Army,N/U,100,N/U,4,25.00,Oct-44,Oct-44,N/A,MOTOR,N/A,N/A,N/A,Army,,
+43,"""",39th Army,N/U,62,N/U,4,15.50,Oct-44,Oct-44,N/A,FOOT,N/A,N/A,N/A,Army,,
+44,East Prussia,5th Guards Tank Army,N/U,220,N/U,6,36.67,Jan-45,Jan-45,N/A,MOTOR,N/A,N/A,N/A,Army,,60 km on best day
+45,"""",39th Army,N/U,55,N/U,7,7.86,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+46,"""",5th Army,N/U,80,N/U,12,6.67,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+47,"""",28th Army,N/U,75,N/U,13,5.77,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+48,"""",48th Army,N/U,85,N/U,6,14.17,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+49,"""",2nd Shock Army,N/U,85,N/U,6,14.17,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+50,"""",65th Army,N/U,90,N/U,7,12.86,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+51,"""",3rd Army,N/U,80,N/U,7,11.43,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+52,Vistula-Oder,1st Guards Tank Army,N/U,600,N/U,17,35.29,Jan-45,Jan-45,N/A,MOTOR,N/A,N/A,N/A,Army,,80 km on best day
+53,"""",2nd Guards Tank Army,N/U,600,N/U,16,37.50,Jan-45,Jan-45,N/A,MOTOR,N/A,N/A,N/A,Army,,100 km on best day
+54,"""",3rd Guards Tank Army,N/U,420,N/U,16,26.25,Jan-45,Jan-45,N/A,MOTOR,N/A,N/A,N/A,Army,,80 km on best day
+55,"""",4th Tank Army,N/U,375,N/U,13,28.85,Jan-45,Jan-45,N/A,MOTOR,N/A,N/A,N/A,Army,,70 km on best day
+56,"""",5th Shock Army,N/U,140,N/U,6,23.33,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+57,"""",8th Guards Army,N/U,150,N/U,6,25.00,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+58,"""",69th Army,N/U,180,N/U,6,30.00,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+59,"""",13th Army,N/U,125,N/U,7,17.86,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+60,"""",52nd Army,N/U,125,N/U,8,15.63,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+61,"""",5th Guards Army,N/U,130,N/U,6,21.67,Jan-45,Jan-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+62,Berlin,1st Guards Tank Army,N/U,110,N/U,18,6.11,Apr-45,Apr-45,N/A,MOTOR,N/A,N/A,N/A,Army,,17 km on best day
+63,"""",2nd Guards Tank Army,N/U,125,N/U,18,6.94,Apr-45,Apr-45,N/A,MOTOR,N/A,N/A,N/A,Army,,25 km on best day
+64,"""",3rd Guards Tank Army,N/U,190,N/U,17,11.18,Apr-45,Apr-45,N/A,MOTOR,N/A,N/A,N/A,Army,,40 km on best day
+65,"""",4th Guards Tank Army,N/U,220,N/U,17,12.94,Apr-45,Apr-45,N/A,MOTOR,N/A,N/A,N/A,Army,,80 km on best day
+66,"""",3rd Shock Army,N/U,70,N/U,10,7.00,Apr-45,Apr-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+67,"""",5th Shock Army,N/U,70,N/U,10,7.00,Apr-45,Apr-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+68,"""",8th Guards Army,N/U,70,N/U,10,7.00,Apr-45,Apr-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+69,"""",13th Army,N/U,50,N/U,7,7.14,Apr-45,Apr-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+70,"""",3rd Shock Army,N/U,56,N/U,4,14.00,Apr-45,Apr-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+71,Manchuria/,6th Guards Tank Army,N/U,820,N/U,10,82.00,Aug-45,Aug-45,N/A,MOTOR,N/A,N/A,N/A,Army,,160 km on best day
+72,(Japanese Front),17th Army,N/U,450,N/U,10,45.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+73,"""",39th Army,N/U,380,N/U,10,38.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+74,"""",36th Army,N/U,450,N/U,10,45.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+75,(1st Far-EAstern Front),35th Army,N/U,250,N/U,10,25.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+76,"""",1st Army,N/U,300,N/U,10,30.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+77,"""",5th Army,N/U,300,N/U,10,30.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+78,"""",25th Army,N/U,200,N/U,10,20.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+79,(2nd Far-Eastern Front),2nd Army,N/U,200,N/U,10,20.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+80,"""",15th Army,N/U,300,N/U,10,30.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,
+81,South-Sakalin,16th Army,N/U,360,N/U,15,24.00,Aug-45,Aug-45,N/A,FOOT,N/A,N/A,N/A,Army,,

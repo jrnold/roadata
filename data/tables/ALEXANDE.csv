@@ -1,0 +1,125 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,comments
+1,Spartans,Sparta to Marathon,150,241.40,3,3,80.47,490 BC,490 BC,NA,Foot,NA,NA,NA,NA,
+2,Ten Thousand Greeks,Myriandrus to Thapsacus,230,370.15,12,12,30.85,401 BC,401 BC,NA,Foot,NA,NA,NA,NA,
+3,Ten Thousand Greeks,Retreat,4000,6437.38,215,215,29.94,400 BC,400 BC,NA,Foot,NA,NA,NA,NA,
+4,Macedonians,One-day Drill Marches,30,48.28,1,1,48.28,350 BC,350 BC,NA,Foot,NA,NA,NA,NA,
+5,Macedonians,Pelium to Thebes,300,482.80,14,14,34.49,355 BC,355 BC,NA,All Arms,Mountain,NA,NA,NA,Mountain road
+6,Macedonians,Pella to Sestos,350,563.27,20,20,28.16,334 BC,334 BC,NA,All Arms,NA,NA,NA,NA,
+7,Macedonians,Phoenicia to Thapsacus,200 +,321.87,11,11,29.26,331 BC,331 BC,NA,All Arms,NA,NA,NA,NA,
+8,Macedonians,Pursuit at Arbela,70,112.65,1,1,112.65,331 BC,331 BC,NA,Horse,NA,NA,NA,NA,
+9,Macedonians,Uxians to Persian Gates,113,181.86,5,5,36.37,331 BC,331 BC,NA,All Arms,Mountain,NA,NA,NA,Bad mountain road
+10,Macedonians,Persian Gates to Araxes,40,64.37,0.5,0.5,128.75,331 BC,331 BC,NA,Horse,NA,NA,NA,NA,
+11,Macedonians,Ecbatana to Rhagae,220 +,354.06,11,11,32.19,330 BC,330 BC,NA,All Arms,NA,NA,NA,NA,
+12,Macedonians,Pursuit of Darius,400,643.74,11,11,58.52,330 BC,330 BC,NA,Horse,NA,Desert,Sandy,NA,"Hot sandy road, part desert"
+13,Macedonians,Pursuit of Darius,175,281.64,4,4,70.41,330 BC,330 BC,NA,Foot,NA,Desert,Sandy,NA,"Hot sandy road, part desert"
+14,Macedonians,Pursuit of Darius,47,75.64,0.5,0.5,151.28,330 BC,330 BC,NA,Foot,NA,Desert,NA,NA,Desert
+15,Macedonians,Hecatompylos to Aria,500 +,804.67,20,20,40.23,330 BC,330 BC,NA,All Arms,NA,NA,NA,NA,
+16,Macedonians,To Arcacoana,75,120.70,2,2,60.35,330 BC,330 BC,NA,All Arms,NA,NA,NA,NA,
+17,Macedonians,Capture of Bessus,150,241.40,4,4,60.35,329 BC,329 BC,NA,All Arms,NA,NA,NA,NA,Ptolemy's march
+18,Macedonians,Jaxartes to Maracanda,170,273.59,3.5,3.5,78.17,329 BC,329 BC,NA,All Arms,NA,NA,NA,NA,
+19,Macedonians,Desert of Sandar,57,91.73,1,1,91.73,325 BC,325 BC,NA,All Arms,NA,Desert,NA,NA,Desert See Note
+20,Macedonians,Pella to Corinth,240,386.24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,Macedonians,Corinth to Pella,240,386.24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,Macedonians,Pella to Danube,350,563.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,Macedonians,Peuce to Pelium,300,482.80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,Macedonians,Pelium to Thebes,300,482.80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,Macedonians,Thebes to Pella,180,289.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Macedonians,Pella to Hellespont,300,482.80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,Macedonians,Hellespont to Granicus,50,80.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,Macedonians,Granicus to Sardis,180,289.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,Macedonians,Sardis to Smyrna and back,100,160.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,Macedonians,Sardis to Ephesus,50,80.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,Macedonians,Ephesus to Miletus,60,96.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,Macedonians,Miletus to Halicarnassus,60,96.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,Macedonians,Halicarnassus to Telmessus,160,257.50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Macedonians,Telmessus to Phaselis,160,257.50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,Macedonians,Phaselis to Side,85,136.79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,Macedonians,Side to Termessus,85,136.79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,Macedonians,Termessus to Sagalassus,70,112.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,Macedonians,Sagalassus to Celaenae,60,96.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,Macedonians,Celaenae to Gordium,170,273.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,Macedonians,Gordium to Ancyra,80,128.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,Macedonians,Ancrya to Tarsus,320,514.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Macedonians,Tarsus to Rugged Citicia and back,160,257.50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,Macedonians,Tarsus to Myriandrus,100,160.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,Macedonians,Myrilandrus to Issus,25,40.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,Macedonians,Issus to Tyre,300,482.80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Macedonians,To Sidon and Libanus Campaign,100,160.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,Macedonians,Tyre and Jerusalem,120,193.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,Macedonians,Jerusalem to Gaza,60,96.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,Macedonians,Gaza to Pelusium,140,225.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,Macedonians,Pelusium to Memphis,120,193.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,Macedonians,Memphis to Alexandria,150,241.40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,Macedonians,Around Lake Maraeotis,120,193.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,Macedonians,Alexandria to Paraetonium,140,225.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,Macedonians,Paraetonium to Temple of Jupiter Ammon,170,273.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,Macedonians,Tempie of Jupiter Ammon to Memphis,340,547.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,Macedonians,Memphis to Gaza,260,418.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,Macedonians,Gaza to Tyre,135,217.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,Macedonians,Tyre to Thapsacus,380,611.55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,Macedonians,Thapsacus to Bezabde,290,466.71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,Macedonians,Bezabde to Arbela,125,201.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,Macedonians,Arbela to Opis,180,289.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,Macedonians,Opis to Babylon,90,144.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,Macedonians,Babyion to Susa,230,370.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,Macedonians,Susa to Uxian City,130,209.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65,Macedonians,Uxian City to Kal-eh-Sefid,190,305.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,Macedonians,Kal-eh-Sefid to Persepolis,85,136.79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,Macedonians,Persepolis to Ecbatana,480,772.49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,Macedonians,Ecbatana to Caspian Gates,285,458.66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,Macedonians,Caspian Gates to Hecatompylos,215,346.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,Macedonians,Hecatompylos to Zadracarta,115,185.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,Macedonians,Mardian Campaign,600,965.61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,Macedonians,Zadracarta to Susa,550,885.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,Macedonians,Susa to Artacoana,130,209.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74,Macedonians,Artacoana to Prophthasia,200,321.87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75,Macedonians,Prophthasia to Alexandria Arachotia,450,724.20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,Macedonians,Alexandria Arachotia to Nicea,200,321.87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,Macedonians,Nicia to Alexandria ad Caucasum,35,56.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,Macedonians,Alexandria ad Caucasum to Drapsaca,110,177.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,Macedonians,Orapsaca to Zariaspa,220,354.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,Macedonians,Zariaspa to Nautaca,205,329.92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,Macedonians,Nautaca to Maracanda,120,193.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82,Macedonians,Maracanda to Jaxartes,170,273.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,Macedonians,Scythian and Seven Cities Campaigns,100,160.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84,Macedonians,Jaxartes to Maracanda,170,273.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,Macedonians,Polymetius Campaign,150,241.40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,Macedonians,Maracanda to Zariaspa,325,523.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,Macedonians,Five Column Campaign,450,724.20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88,Macedonians,Final Campaign in Sogdiana,200,321.87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,Macedonians,Xenippa Campaign,150,241.40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+90,Macedonians,Rock of Sisimithres and back,250,402.34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,Macedonians,To Sogidan Rock and Rock of Chorienes,700,1126.54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,Macedonians,To Zariaspa,200,321.87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,Macedonians,To Alexandria ad Caucasum,330,531.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+94,Macedonians,Alexandria to Nicea,35,56.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,Macedonians,Nicea to Ora,400,643.74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+96,Macedonians,Ora to Astes' Fort,100,160.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+97,Macedonians,Astes' Fort to Aornus,75,120.70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,Macedonians,Aornus to Dyrta,180,289.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,Macedonians,Oyrta to [Indus,40,64.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+100,Macedonians,Indus to bridge,175,281.64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101,Macedonians,Indus to Taxila,50,80.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+102,Macedonians,Taxila to Hydaspes,100,160.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103,Macedonians,Hydaspes manoeuvre,30,48.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104,Macedonians,Hydaspes to Glaucians,170,273.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+105,Macedonians,Glaucians to Acesines Crossing,70,112.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+106,Macedonians,Acesines to Hydraotis and beyond,60,96.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+107,Macedonians,To Pimprama and Sangala,100,160.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+108,Macedonians,To Sopeithes' and Phegeus' Kingdoms,250,402.34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+109,Macedonians,To Hyphasis,60,96.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,Macedonians,To Nicaea,180,289.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+111,Macedonians,Nicaea to confluence Indus and Acesines,250,402.34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,Macedonians,Mallian Campaign,210,337.96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+113,Macedonians,Campaign and discoveries on Lower Indus,800,1287.48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+114,Macedonians,Indus to Arabis,85,136.79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+115,Macedonians,Arabis to Paura,450,724.20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+116,Macedonians,Paura to Pasargadae,400,643.74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,Macedonians,Pasargadae to Susa,420,675.92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+118,Macedonians,Susa to sea,220,354.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+119,Macedonians,Sea to Opis,450,724.20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+120,Macedonians,Opis to Ecbatana,330,531.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+121,Macedonians,Cossean Campaign and to Susa,400,643.74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+122,Macedonians,Susa to Babylon,230,370.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+123,Macedonians,Babylon to sea,350,563.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+124,Macedonians,Back to Babylon,350,563.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

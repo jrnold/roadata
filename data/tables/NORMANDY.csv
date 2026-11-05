@@ -1,0 +1,51 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_yards,distance_km,time_days,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,notes,comments,battle_casualties
+1,2nd Inf,Foret de Cerisy,3500,3.20,NU,2,1.60,13-Jun-44,14-Jun-44,Heavy,Foot,Close,NA,NA,"14,340",,,473
+2,9th Inf,Pont l'Abbe,2500,2.29,NU,2,1.14,14-Jun-44,15-Jun-44,Medium,Foot,Close,NA,NA,"13,110",,,242
+3,29th Inf,Amy,3000,2.74,NU,1,2.74,16-Jun-44,16-Jun-44,Medium,Foot,Close,NA,NA,"13,600",,,171
+4,2nd Inf,St. Germain d'Elle,300,0.27,NU,1,0.27,16-Jun-44,16-Jun-44,Heavy,Foot,Close,NA,NA,"13,858",,,558
+5,79th Inf,Montgardon Ridge,12600,11.52,NU,6,1.92,02-Jul-44,07-Jul-44,Heavy,Foot,Close,NA,NA,"12,978",,,2070
+6,82nd Abn,Poterie Ridge,7350,6.72,NU,3,2.24,03-Jul-44,05-Jul-44,Heavy,Foot,Close,NA,NA,"6,591",,Cas for 4-5 July only,624
+7,90th Inf,Monte Castre,7000,6.40,NU,5,1.28,03-Jul-44,07-Jul-44,Heavy,Foot,Open,NA,NA,"13,325",,,2000
+8,3d Canadian Inf,Caen,8200,7.50,NU,2,3.75,08-Jul-44,09-Jul-44,Heavy,Foot,Close,NA,NA,"17,500",Str Est'd,,1194
+9,30th Inf,Vire R. Bridgehead,2500,2.29,NU,1,2.29,07-Jul-44,07-Jul-44,Heavy,Foot,Close,NA,NA,"13,872",,,281
+10,83rd Inf,Periers Sector,1800,1.65,NU,2,0.82,04-Jul-44,05-Jul-44,Heavy,Foot,Close,NA,NA,"12,528",,,1855
+11,83rd Inf,Carentan-Periers Road,700,0.64,NU,1,0.64,09-Jul-44,09-Jul-44,Heavy,Foot,Close,NA,NA,"12,769",,,122
+12,30th Inf,Pont Herbert,3000,2.74,NU,1,2.74,10-Jul-44,10-Jul-44,Heavy,Foot,Close,NA,NA,"13,185",,,202
+13,2nd Inf,Hill 192,1350,1.23,NU,1,1.23,11-Jul-44,11-Jul-44,Heavy,Foot,Close,NA,NA,"14,824",,,407
+14,29th Inf,Martinville Ridge,2400,2.19,NU,1,2.19,11-Jul-44,11-Jul-44,Heavy,Foot,Close,NA,NA,"14,400",,,944
+15,8th Inf,Hill 92,2000,1.83,NU,1,1.83,12-Jul-44,12-Jul-44,Lite,Foot,Close,NA,NA,"13,130",,,344
+16,79th Inf,Hill 92,2500,2.29,NU,1,2.29,12-Jul-44,12-Jul-44,Lite,Foot,Close,NA,NA,"11,641",,,115
+17,9th Inf,Les Champs des Losques,1500,1.37,NU,1,1.37,13-Jul-44,13-Jul-44,Medium,Foot,Close,NA,NA,"14,411",,,228
+18,4th Inf,Toward Periers,3850,3.52,NU,11,0.32,05-Jul-44,15-Jul-44,Heavy,Foot,Close,NA,NA,"14,788",,,2300
+19,2nd Canadian Inf,"""Goodwood-Atlantic""",5800,5.30,NU,4,1.33,18-Jul-44,21-Jul-44,Heavy,Foot,Open,NA,NA,"17,500",Str Est'd,,1149
+20,4th Inf,"""Cobra""",8000,7.32,NU,1,7.32,26-Jul-44,26-Jul-44,Heavy,Foot,Mixed,NA,NA,"14,933",,,115
+21,5th Inf,"""Cobra""",2000,1.83,NU,1,1.83,26-Jul-44,26-Jul-44,Medium,Foot,Mixed,NA,NA,"14,215",,,188
+22,2nd Inf,"""Cobra""",3000,2.74,NU,1,2.74,26-Jul-44,26-Jul-44,Heavy,Foot,Mixed,NA,NA,"14,468",,,477
+23,8th Inf,"""Cobra""",750,0.69,NU,1,0.69,26-Jul-44,26-Jul-44,Heavy,Foot,Mixed,NA,NA,"13,505",,,407
+24,2nd Inf,"""Cobra""",1000,0.91,NU,1,0.91,27-Jul-44,27-Jul-44,Medium,Foot,Mixed,NA,NA,"14,393",,,463
+25,5th Inf,"""Cobra""",1000,0.91,NU,1,0.91,28-Jul-44,28-Jul-44,Heavy,Foot,Mixed,NA,NA,"14,146",,,216
+26,2nd Inf,"""Cobra""",1300,1.19,NU,1,1.19,30-Jul-44,30-Jul-44,Heavy,Foot,Mixed,NA,NA,"14,078",,,185
+27,2nd Inf,"""Cobra""",4200,3.84,NU,1,3.84,31-Jul-44,31-Jul-44,Lite,Foot,Open,NA,NA,"14,393",,,100
+28,2nd Inf,Vire,4000,3.66,NU,1,3.66,01-Aug-44,01-Aug-44,Medium,Foot,Mixed,NA,NA,"14,059",,,255
+29,35th Inf,Torigny-sur-Vire,5500,5.03,NU,1,5.03,01-Aug-44,01-Aug-44,Lite,Foot,Mixed,NA,NA,"13,157",,,130
+30,1st Inf,Brecey,4000,3.66,NU,1,3.66,02-Aug-44,02-Aug-44,Lite,Foot,Mixed,NA,NA,"14,720",,,50
+31,2nd Inf,Tessy-sur-Vire,6000,5.49,NU,1,5.49,02-Aug-44,02-Aug-44,Lite,Foot,Mixed,NA,NA,"13,969",,,112
+32,35th Inf,Tessy-sur-Vire,6000,5.49,NU,1,5.49,02-Aug-44,02-Aug-44,Lite,Foot,Mixed,NA,NA,"12,945",,,214
+33,9th Inf,Brecey,3000,2.74,NU,1,2.74,03-Aug-44,03-Aug-44,Lite,Foot,Mixed,NA,NA,"13,717",,,148
+34,2nd Inf,Tessy-sur-Vire,3000,2.74,NU,1,2.74,03-Aug-44,03-Aug-44,Medium,Foot,Mixed,NA,NA,"14,295",,,94
+35,35th Inf,Tessy-sur-Vire,3000,2.74,NU,1,2.74,03-Aug-44,03-Aug-44,Lite,Foot,Mixed,NA,NA,"12,690",,,179
+36,2nd Inf,Vire,4400,4.02,NU,1,4.02,04-Aug-44,04-Aug-44,Medium,Foot,Mixed,NA,NA,"14,589",,,65
+37,2nd Inf,Vire,2000,1.83,NU,1,1.83,05-Aug-44,05-Aug-44,Lite,Foot,Mixed,NA,NA,"14,341",,,202
+38,2nd Inf,Tinchebray,3800,3.47,NU,1,3.47,09-Aug-44,09-Aug-44,Lite,Foot,Mixed,NA,NA,"14,621",,,18
+39,29th Inf,Vire,4000,3.66,NU,2,1.83,05-Aug-44,06-Aug-44,Medium,Foot,Mixed,NA,NA,"12,850",,,407
+40,2nd Canadian Inf,"""Totalize""",9700,8.87,NU,1,8.87,07-Aug-44,07-Aug-44,Medium,Foot,Mixed,NA,NA,"17,000",Str Est'd,,323
+41,28th Inf,Mortain,1000,0.91,NU,1,0.91,11-Aug-44,11-Aug-44,Medium,Foot,Mixed,NA,NA,"12,320",,,274
+42,29th Inf,Mortain,1000,0.91,NU,1,0.91,11-Aug-44,11-Aug-44,Medium,Foot,Mixed,NA,NA,"12,997",,,184
+43,29th Inf,Tinchebray,3500,3.20,NU,1,3.20,13-Aug-44,13-Aug-44,Medium,Foot,Mixed,NA,NA,"13,311",,,72
+44,29th Inf,La Freane Paret,4000,3.66,NU,1,3.66,14-Aug-44,14-Aug-44,Medium,Foot,Mixed,NA,NA,"13,454",,,44
+45,2nd Inf,Tinchebray,1100,1.01,NU,1,1.01,14-Aug-44,14-Aug-44,Heavy,Foot,Mixed,NA,NA,"13,574",,,309
+46,29th Inf,Tinchebray,6000,5.49,NU,1,5.49,15-Aug-44,15-Aug-44,Lite,Foot,Mixed,NA,NA,"13,651",,,20
+47,2nd Inf,Tinchebray,5000,4.57,NU,1,4.57,15-Aug-44,15-Aug-44,Lite,Foot,Mixed,NA,NA,"13,779",,,70
+48,9th Inf,Briouze Fromental Road,3000,2.74,NU,1,2.74,17-Aug-44,17-Aug-44,Lite,Foot,Mixed,NA,NA,"13,362",,,137
+49,2nd Inf,Brest,800,0.73,NU,1,0.73,01-Sep-44,01-Sep-44,Heavy,Foot,Close,NA,NA,"13,511",,,73
+50,2nd Inf,Brest,800,0.73,NU,1,0.73,09-Sep-44,09-Sep-44,Heavy,Foot,Close,NA,NA,"14,468",,,92

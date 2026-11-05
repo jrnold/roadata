@@ -1,0 +1,174 @@
+no,short_description,route_locale_sector_or_other_information,distance_value,dist_units,distance_km,time_value,time_units,time_days,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,reference_numbers,comments
+1,Western Cattle Drives,"San Antonio, TX to Abilene, KS",718,miles,1155.51,3,months,91,12.70,1867,1890,NA,On hoof,Prairie,Prairie,Firm,3000,1,"Average herd of 3000 cattle, with 30-40 cowboys and several head of horse"
+2,Western Cattle Drives,"Fort Worth, TX to Virginia City, MT",1500,miles,2414.02,6,months,183,13.19,NA,9-Dec-1866,Indians,On hoof,Prairie,Prairie,Firm,1000,1,Nelson Story's drive of 1000 cattle
+3,Gen Allenby,Approach to Megiddo,550,miles,885.14,38,days,38,23.29,1918,1918,Lite,Horse,Desert,Desert,Desert,NA,2,"""...one cavalry divison covered over 550 miles in 38 days."""
+4,Falklands War,"Port San Carlos to Port Stanley, E Falklands Is",80,miles,128.75,3,days,3,42.92,Jun 1982,Jun 1982,Lite,Foot,Hilly,Prairie,Boggy,Company,3,"42nd Brit Commandos. Weather cold, wet, raw."
+5,First Crusade,"Across Europe, Peter the Hermit's peasants",NA,NA,NA,NA,NA,NA,28.97,NA,1099,None,Foot,Varied,Varied,Varied,Countless,4,
+6,First Crusade,"Across Europe, Godfrey's army",NA,NA,NA,NA,NA,NA,24.94,NA,1099,None,Horse,Varied,Varied,Varied,35000,4,
+7,Bataan Death March,Mariveles to Balanga,25,miles,40.23,NA,NA,NA,NA,09-Apr-42,NA,None,Foot,Rolling,Tropical,Firm,70000,5,"Lack of food and water, very hot, atrocious conditions"
+8,Bataan Death March,Balanga to San Fernando,31,miles,49.89,NA,NA,NA,NA,NA,NA,None,Foot,Rolling,Tropical,Firm,70000,5,"Lack of food and water, very hot, atrocious conditions"
+9,Bataan Death March,San Fernando to Capas,25,miles,40.23,NA,NA,NA,NA,NA,NA,None,Rail,Rolling,Tropical,Firm,70000,5,"Lack of food and water, very hot, atrocious conditions"
+10,Bataan Death March,Capas to Camp O'Donnell,9,miles,14.48,NA,NA,NA,NA,NA,NA,None,Foot,Rolling,Tropical,Firm,70000,5,"Lack of food and water, very hot, atrocious conditions"
+11,Bataan Death March,Mariveles to Camp O'Donnell,90,miles,144.84,NA,NA,NA,NA,09-Apr-42,NA,None,Foot,Rolling,Tropical,Firm,70000,5,"Lack of food and water, very hot, atrocious conditions"
+12,Japanese Trng March,NA,56,miles,90.12,29,hours,1.208,74.58,NA,NA,None,Foot,NA,NA,NA,NA,5,
+13,Geneva Convention,Normal day's march for prisoners,NU,NU,20.00,1,day,1,20.00,NA,NA,None,Foot,NA,NA,NA,NA,5,
+14,Alexander the Great,Macedonia to Issus,1500,miles,2414.02,18,months,548,4.41,334 BC,333 BC,Varied,Foot,Varied,Varied,Varied,NA,6,
+15,Alexander the Great,Issus to Memphis,1625,miles,2615.18,13,months,396,6.60,333 BC,331 BC,Varied,Foot,Varied,Varied,Varied,NA,6,
+16,Alexander the Great,Memphis to Gaugamela,1150,miles,1850.75,9,months,274,6.75,331 BC,331 BC,Varied,Foot,Varied,Varied,Varied,NA,6,
+17,Alexander the Great,Gaugamela to Persepolis,1000,miles,1609.34,6,months,183,8.79,331 BC,330 BC,Varied,Foot,Varied,Varied,Varied,NA,6,
+18,Alexander the Great,Persepolis to Hyphasis R.,4500,miles,7242.05,18,months,548,13.22,330 BC,327 BC,Varied,Foot,Varied,Varied,Varied,NA,6,
+19,Alexander the Great,Hydaspes to Susa,2500,miles,4023.36,7,months,213,18.89,324 BC,323 BC,Varied,Foot,Varied,Varied,Varied,NA,6,
+20,Physical Fitness Test,"FM 21-20, C2, 8 April 1983",2,miles,3.22,20,minutes,0.014,231.75,NA,NA,Varied,Foot,Varied,Varied,Varied,NA,7,For men aged 40 to 45.
+21,Physical Fitness Test,"FM 21-20, C2, 8 April 1983",2,miles,3.22,29,minutes,0.02,159.82,NA,NA,Varied,Foot,Varied,Varied,Varied,NA,7,For women aged 56 to 60.
+22,Pursuit of Nez Perce,Whitebird to Bear Paw Mountains,1700,miles,2735.88,92,days,92,29.74,17-Jun-1877,5-Oct-1877,Med,Horse,Varied,Varied,Varied,NA,8,
+23,US Army Motor Convoy,"Washington, DC to Presidio of San Francisco",3251,miles,5231.98,62,days,62,84.39,07-Jul-19,06-Sep-19,None,Motor,Varied,Varied,Varied,282,9,An experimental and public relations exercise
+24,Civil Rights March,"Selma, AL to Montgomery, AL",50,miles,80.47,5,days,5,16.09,21-Mar-65,25-Mar-65,None,Foot,Flat,None,Firm,NA,10,
+25,US Training March,"41st National Guard Division in Australia, WWII",90,miles,144.84,3,days,3,48.28,NA,NA,None,Foot,NA,NA,Firm,NA,11,
+26,Zulu impi,"Zululand, early 1800's",50,miles,80.47,1,day,1,80.47,1800,1800,None,Foot,NA,NA,Firm,NA,12,
+27,Stonewall Jackson,"Winchester to Paris and on to Piedmont, VA",23,miles,37.01,1.4,days,1.4,26.44,1860's,1860's,None,Foot,Rolling,Mixed,Firm,NA,13,
+28,Stonewall Jackson,From Mount Jackson thru Shenandoah Valley,25,miles,40.23,1,days,1,40.23,1860's,1860's,None,Foot,Flat,Mixed,Firm,NA,13,
+29,Henry Kyd Douglas,Across Blue Ridge Mountains,105,miles,168.98,20,hours,0.833,202.78,1860's,1860's,None,Horse,Mountain,Mixed,Wet,1,13,
+30,Stonewall Jackson,Conrad's Store to Port Republic,16,miles,25.75,2.5,days,2.5,10.30,1860's,1860's,None,Foot,Flat,Mixed,Muddy,NA,13,
+31,Stonewall Jackson,Vic. Loudon Heights to Vic. Kernstown,35,miles,56.33,1,days,1,56.33,1860's,1860's,None,Foot,Rolling,Mixed,Firm,NA,13,
+32,Stonewall Jackson,Valley Campaign,400,miles,643.74,30,days,30,21.46,1860's,1860's,None,Foot,Rolling,Mixed,Firm,NA,13,
+33,A. P. Hill,Harper's Ferry to Antietam,17,miles,27.36,8,hours,0.333,82.08,1860's,1860's,None,Foot,Hilly,Mixed,Firm,NA,"13, 16",A. P. Hill's Light Division
+34,Stonewall Jackson,"Spotsylvania County, VA",15,miles,24.14,1,days,1,24.14,5-Jun-1863,5-Jun-1863,None,Foot,Rolling,Mixed,Firm,NA,13,
+35,Stonewall Jackson,,10,miles,16.09,1,days,1,16.09,6-Jun-1863,6-Jun-1863,None,Foot,Rolling,Mixed,Firm,NA,13,
+36,Stonewall Jackson,Across Rapidan R.,17,miles,27.36,1,days,1,27.36,7-Jun-1863,7-Jun-1863,None,Foot,Rolling,Mixed,Firm,NA,13,
+37,Stonewall Jackson,,0,miles,0.00,1,days,1,0.00,8-Jun-1863,8-Jun-1863,None,Foot,Rolling,Mixed,Firm,NA,13,
+38,Stonewall Jackson,,10,miles,16.09,1,days,1,16.09,9-Jun-1863,9-Jun-1863,None,Foot,Rolling,Mixed,Firm,NA,13,
+39,Stonewall Jackson,To Gaines Cross Roads,18,miles,28.97,1,days,1,28.97,10-Jun-1863,10-Jun-1863,None,Foot,Rolling,Mixed,Firm,NA,13,
+40,Stonewall Jackson,To vic. Cedarville,18,miles,28.97,1,days,1,28.97,11-Jun-1863,11-Jun-1863,None,Foot,Rolling,Mixed,Firm,NA,13,
+41,Stonewall Jackson,Spotsylvania Cty to Cedarville,88,miles,141.62,7,days,7,20.23,5-Jun-1863,11-Jun-1863,None,Foot,Rolling,Mixed,Firm,NA,13,
+42,Stonewall Jackson,Gen Early's march to Charlottesville,80,miles,128.75,4,days,4,32.19,1860's,1860's,None,Foot,Rolling,Mixed,Firm,8000,13,Gen Early's Corps
+43,I Corps,Masurian Lakes I,77,miles,123.92,4,days,4,30.98,Sep-1914,Sep-1914,Med,Foot,NA,NA,NA,Corps,14,Gen Hermann von Francois' 1st Corps
+44,Retreating forces,Masurian Lakes I,55,miles,88.51,1.0417,days,1.042,84.97,Sep-1914,Sep-1914,None,Foot,NA,NA,NA,NA,14,"""...some retreating forces fell back 55 miles in one 50 hour period."""
+45,Lodz,German 9th Army (Gen. Mackensen),50,miles,80.47,4,days,4,20.12,11-Nov-14,14-Nov-14,None,Foot,NA,NA,NA,Army,14,
+46,Lodz,Russian Fifth Army,70,miles,112.65,48,hours,2,56.33,16-Nov-14,17-Nov-14,None,Foot,NA,NA,NA,Army,14,
+47,Fall of Poland,German advance through Poland,35,miles,56.33,1,days,1,56.33,1939,1939,Light,Foot,NA,NA,NA,Army Grp,15,Forced march by certain German units
+48,Humphrey's Division,"Vic. Frederick, MD to vic. Sharpsburg, MD",23,miles,37.01,19,hours,0.792,46.76,16-Sep-1862,17-Sep-1862,None,Foot,Mountain,Mixed,Firm,Division,16,
+49,Average day's march,French Army Corps,15.5,miles,24.94,1,days,1,24.94,1796,1796,NA,Foot,NA,NA,NA,NA,17,"Based on 203 marches that year, ranging from 5 to 33.5 miles"
+50,Average day's march,French Army Corps,10.6,miles,17.06,1,days,1,17.06,1800,1800,NA,Foot,NA,NA,NA,NA,17,"Based on 135 marches that year, ranging from 2.3 to 23.6 miles"
+51,Average day's march,French Army Corps,16.1,miles,25.91,1,days,1,25.91,1805,1805,NA,Foot,NA,NA,NA,NA,17,"Based on 267 marches that year, ranging from 7.4 to 29.8 miles"
+52,Average day's march,French Army Corps,15.5,miles,24.94,1,days,1,24.94,1806,1806,NA,Foot,NA,NA,NA,NA,17,"Based on 94 marches that year, ranging from 3 to 30.4 miles"
+53,Average day's march,French Army Corps,13.7,miles,22.05,1,days,1,22.05,1815,1815,NA,Foot,NA,NA,NA,NA,17,"Based on 20 marches that year, ranging from 6.2 to 19.8 miles"
+54,Great Peace March,"Los Angeles to Washington, DC",3700,miles,5954.57,260,days,260,22.90,01-Mar-86,15-Nov-86,None,Foot,Varied,Varied,Firm,1500,18,"Mojave, Loveland Pass, Nebraska, Pennsylvania, NYC, DC"
+55,Covered wagon,"From St. Joseph, MO to Carson Pass, CA",NU,miles,2250.00,99,days,99,22.73,30-Apr-1849,6-Aug-1849,None,Wagon,NA,NA,NA,30,19,"10 light wagons, 40 mules"
+56,Covered wagon,Nominal rate on the Oregon Trail,20,miles,32.19,1,days,1,32.19,1830,1830,None,Wagon,NA,NA,NA,80,20,"Experimental trek with 12 wagons, made 15-25 mi/day"
+57,Covered wagon,Nominal rate on the Oregon Trail,17.5,miles,28.16,1,days,1,28.16,1843,1843,None,Wagon,NA,NA,NA,1250,20,"Typically 15-20 mi/day, 1000-1500 people, 120 wagons, 5000 head of stock"
+58,Covered wagon,Oregon Trail,100,miles,160.93,14,days,14,11.50,1844,1844,None,Wagon,NA,NA,NA,NA,20,Cited as very slow progress in driving rain
+59,Covered wagon,"Laramie Mountains, along Oregon Trail",NA,miles,NA,NA,days,NA,22.50,1844,1844,None,Wagon,NA,NA,NA,NA,20,"Cited as ""making good time along this stretch"""
+60,Covered wagon,Oregon Trail,NA,miles,NA,NA,days,NA,22.00,1844,1844,None,Wagon,NA,NA,NA,NA,20,Estimated rate in difficult terrain for wagons
+61,Covered wagon,Oregon Trail (Independence to Willamette Valley),2000,miles,3218.69,183,days,183,17.59,NA,NA,None,Wagon,NA,NA,NA,NA,21,"Characterized as ""average wagon train"" on Oregon Trail"
+62,Covered wagon,Mormon Trail,1100,miles,1770.28,101,days,101,17.53,1847,1847,None,Wagon,NA,NA,NA,NA,"22, 23",Brigham Young's first visit to Salt Lake Valley from his Winter Quarters
+63,Pony Express,"St. Joseph, MO to Sacramento, CA",1966,miles,3163.97,10,days,10,316.40,1860,1861,None,Horse,NA,NA,NA,1,"22, 26",Using 153 way stations along the route
+64,Pony Express,"St. Joseph, MO to Sacramento, CA",1966,miles,3163.97,NU,days,NU,400.00,1860,1861,None,Horse,NA,NA,NA,1,"23, 26","Presumably, the maximum distance made good in one day"
+65,Lewis and Clark,St. Louis to Vancouver and back,5500,miles,8851.39,863,days,863,10.26,14-May-1804,23-Sep-1806,None,Foot & boat,NA,NA,NA,40,"22,23,25",Average rate for entire trip
+66,Lewis and Clark,St. Louis to Vancouver and back,5500,miles,8851.39,730,days,730,12.13,14-May-1804,23-Sep-1806,None,Foot & boat,NA,NA,NA,40,"22,23,25","Average rate, excluding the 133 days spent ""wintering over"" at Vancouver"
+67,Stagecoach,London to Edinburgh,400,miles,643.74,11,days,11,58.52,1790,1790,None,Coach,NA,NA,NA,NA,26,"400 miles in 10-12 days, one way, circa 1790"
+68,Stagecoach,"St. Louis, MO to California Gold Strike",2500,miles,4023.36,70,days,70,57.48,1849,1849,None,Coach,Varied,Varied,Firm,NA,26,Advertisement of Pioneer Lines
+69,Stagecoach,"Vicinity of Fort Kearney, KS",300,miles,482.80,30,days,30,16.09,10-Jun-1849,10-Jun-1849,None,Coach,Varied,Varied,Firm,NA,26,"Actual performance, Pioneer Lines, vicinity Fort Kearney"
+70,Stagecoach,"Stockton, CA to Stanislaus, CA",NA,miles,NA,1,days,1,NA,1849,1849,None,Coach,Varied,Varied,Firm,NA,26,Advertisement for Stockton to Stanislaus Stage
+71,Stagecoach,"San Francisco,CA to San Jose, CA",50,miles,80.47,9,hours,0.375,214.58,Fall 1849,Spring 1850,None,Coach,Varied,Varied,Firm,NA,26,"San Francisco to San Jose Stage, time about 9 hours"
+72,Stagecoach,"San Jose, CA to Monterey, CA",80,miles,128.75,1,days,1,128.75,July 1851,July 1851,None,Coach,Varied,Varied,Firm,NA,26,Gilroy Stage Company
+73,Stagecoach,"Sacramento, CA to Nevada City, NV",65,miles,104.61,12,hours,0.5,209.21,1850,1850,None,Coach,Varied,Varied,Firm,NA,26,Through in 12 hours
+74,Stagecoach,"Shasta, CA to Colusa, CA Race",160,miles,257.50,11.5,hours,0.479,537.38,1853,1853,None,Coach,Varied,Varied,Firm,NA,26,Winning time
+75,Stagecoach,"Los Angeles, CA to Kernville, CA",125,miles,201.17,1,days,1,201.17,1854,1854,None,Coach,Varied,Varied,Firm,NA,26,"Via San Fernando Valley, Tejon Pass, to Kern R. 40 mi E. of Bakersfield"
+76,Stagecoach,"Cimarron River, KS to Wagon Mound",50,miles,80.47,1,days,1,80.47,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,In haste because of indians and no water
+77,Stagecoach,Wagon Mound to Fort Union,25,miles,40.23,2,days,2,20.12,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,
+78,Stagecoach,"Independence, MO to Santa Fe, NM",860,miles,1384.04,25,days,26,53.23,1-Nov-1853,26-Nov-1853,None,Coach,Varied,Varied,Firm,NA,26,Along the Santa Fe Trail
+79,Stagecoach,Santa Fe Trail,860,miles,1384.04,22.5,days,22.5,61.51,1855,1855,None,Coach,Varied,Varied,Firm,NA,26,"Contract and ad, 1850's, 20 to 25 days along Santa Fe Trail"
+80,Stagecoach,"Kansas City, KS to Santa Fe, NM",650,miles,1046.07,14,days,14,74.72,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,Along the Santa Fe Trail
+81,Stagecoach,"Independence, MO to Salt Lake City, UT",1400,miles,2253.08,30,days,30,75.10,1850,1850,None,Coach,Varied,Varied,Firm,NA,26,Mail contract (they were unable to meet the contract schedule)
+82,Stagecoach,"Sacramento, CA to Salt Lake City, UT",910,miles,1464.50,36,days,36,40.68,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,Initial exploration party
+83,Stagecoach,"St. Louis, MO to Sacramento, CA",3000,miles,4828.03,25,days,25,193.12,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,Butterfield Overland Mail Route: See Reference Number 33 for route
+84,Stagecoach,"San Antonio, TX to San Diego, CA",1475,miles,2373.78,30,days,30,79.13,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,Mail contract--often mail sent ahead by mule to meet 30-day contract
+85,Stagecoach,"San Diego, CA to Tucson, AZ",475,miles,764.44,23,days,23,33.24,1857,1857,None,Coach,Varied,Varied,Firm,NA,26,
+86,Stagecoach,"San Diego, CA to Tucson, AZ",NU,miles,NU,NU,days,NU,20.00,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,"When no time pressure, typically ran at 16 to 24 km/day"
+87,Stagecoach,"San Diego, CA to San Antonio, TX",1475,miles,2373.78,27,days,27,87.92,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,Jackass Line
+88,Stagecoach,"Salt Lake City, UT to Placerville, CA",500,miles,804.67,12,days,12,67.06,1858,1858,None,Coach,Varied,Varied,Firm,NA,26,Proposal for contract--proposal not accepted
+89,Stagecoach,"Stockton, CA to Fort Tejon, CA",261,miles,420.04,NU,days,NU,43.45,1857,1857,None,Coach,Varied,Varied,Firm,NA,26,
+90,Stagecoach,"Placerville, CA to Genoa, NV",80,miles,128.75,1,days,1,128.75,1858,1858,None,Coach,Varied,Varied,Firm,NA,26,Crandall's Stage--across Sierra Nevada range
+91,Stagecoach,Butterfield Line,2800,miles,4506.16,25,days,25,180.25,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,25-day contract limit for mail
+92,Stagecoach,"Out of St. Louis, MO",150,miles,241.40,1,days,1,241.40,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+93,Stagecoach,Across Oklahoma Indian Territory,NU,miles,NU,NU,days,NU,270.00,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+94,Stagecoach,"Texas, Near El Paso",NU,miles,NU,NU,days,NU,116.00,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+95,Stagecoach,New Mexico & Arizona--Through Apache Territory,160,miles,257.50,27,hours,1.125,228.88,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+96,Stagecoach,"Los Angeles, CA to Visalia, CA",132,miles,212.43,20,hours,0.833,254.92,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+97,Stagecoach,"To Diablo Mountain, CA",42,miles,67.59,3.62,hours,0.151,448.13,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+98,Stagecoach,"After Diablo Mountain, CA",12,miles,19.31,65,mins,0.045,427.84,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+99,Stagecoach,To Gilroy,20,miles,32.19,2,hours,0.083,386.24,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+100,Stagecoach,"St. Louis, MO to San Francisco, CA",2800,miles,4506.16,24,days,24,187.76,Fall 1858,Fall 1858,None,Coach,Varied,Varied,Firm,NA,26,Butterfield's first run
+101,Stagecoach,"Leavenworth, KS to Pike's Peak, CO",747,miles,1202.18,21,days,21,57.25,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,Estimated time
+102,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,65,miles,104.61,1,days,1,104.61,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,
+103,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,50,miles,80.47,1,days,1,80.47,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,
+104,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,25,miles,40.23,1,days,1,40.23,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,
+105,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,20,miles,32.19,1,days,1,32.19,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,
+106,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,25,miles,40.23,1,days,1,40.23,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,"Estimated, based on ""two stations"" made that day"
+107,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,15,miles,24.14,1,days,1,24.14,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,"Estimated, based on ""one station"" made that day"
+108,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,15,miles,24.14,1,days,1,24.14,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,"Estimated, based on ""one station"" made that day"
+109,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,25,miles,40.23,1,days,1,40.23,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,
+110,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,50,miles,80.47,1,days,1,80.47,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,
+111,Stagecoach,A day along the Leavenworth-Pike's Peak Stage,20,miles,32.19,1,days,1,32.19,NA,NA,None,Coach,Prairie,Prairie,Firm,NA,26,
+112,Stagecoach,"St. Louis, MO to San Francisco, CA",2800,miles,4506.16,20,days,20,225.31,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,18 to 24 days for Butterfield Stage--See Reference Number 34 for remarks
+113,Stagecoach,"Denver, CO to Julesburg, CO",225,miles,362.10,17.5,hours,0.729,496.60,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,"Done as a ""stunt"""
+114,Stagecoach,"Denver, CO to Golden, CO",15,miles,24.14,55,mins,0.038,632.03,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,"Done as a ""stunt"""
+115,Stagecoach,"Salt Lake City, UT to Walla Walla, OR",1000,miles,1609.34,16.5,days,16.5,97.54,1864,1864,None,Coach,Varied,Varied,Firm,NA,26,
+116,Stagecoach,"Atchison, KS to Sacramento, CA",2500,miles,4023.36,NU,days,NU,200.00,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,
+117,Stagecoach,"Virginia City, MT to Helena, MT",125,miles,201.17,14.5,hours,0.604,332.97,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,"""...amazingly fast"" time for 125 miles in 14 1/2 hours"
+118,Stagecoach,"Virginia City, MT to Helena, MT",125,miles,201.17,10,hours,0.417,482.80,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,Done as a ploy to crush competition and seize a monopoly
+119,Stagecoach,"Folsom, CA to Atchison, KS",2000,miles,3218.69,290,hours,12.08,266.37,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,"Done as a ""stunt"""
+120,Stagecoach,Central Overland Trail,NU,miles,NU,NU,days,NU,17.71,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,10-12 miles per day for ox-drawn freight wagons
+121,Stagecoach,"Denver, CO to Atchison, KS",500,miles,804.67,5,days,5,160.93,1865,1865,None,Coach,Varied,Varied,Firm,NA,26,Normal time for stage in mid-1860's
+122,Stagecoach,"Denver, CO to Atchison, KS",500,miles,804.67,83.25,hours,3.469,231.98,NA,NA,None,Coach,Varied,Varied,Firm,NA,26,"Done as a ""stunt"""
+123,Stagecoach,"Salt Lake City, UT to Virginia City, MT",600,miles,965.61,120,hours,5,193.12,1865,1866,None,Coach,Varied,Varied,Firm,NA,26,
+124,Roman Training March,NA,24,miles,38.62,1,days,1,38.62,100 AD,100 AD,None,Foot,Varied,Varied,Firm,NA,29,See Reference 35
+125,Battle of Ulm,Napoleon's approach march,200,miles,321.87,13,days,13,24.76,NU,NU,None,Foot,Hilly,Temperate,Firm,210500,30,
+126,Battle of Flanders,German advance through Ardennes & Flanders,200,miles,321.87,10,days,10,32.19,NU,NU,Med,Motor,Rolling,Wooded,Firm,NA,30,
+127,Am. Civil War,Grierson's Cavalry Raid through MS in LA,600,miles,965.61,16,days,16,60.35,1863,1863,Lite,Horse,Rolling,Wooded,Firm,1700,31,
+128,Am. Civil War,Jackson's Flank March at Chancellorsville,10.5,miles,16.90,8,hours,0.333,50.69,2-May-1863,2-May-1863,None,Foot,Flat,Wooded,Firm,Corps,32,
+129,WW II NW Europe,"Deployment of CCB, Heerlen to St. Vith",67,miles,107.83,12,hours,0.5,215.65,17-Dec-44,17-Dec-44,None,Motor,Rolling,Wooded,Firm,Bde,32,"CCB of US 7th Armd Div, commanded by BG Bruce C. Clarke"
+130,WW II NW Europe,"CCB, US 4th Armd Div, Hammelburg Raid",60,miles,96.56,14.5,hours,0.604,159.82,27-Mar-45,27-Mar-45,Med,Motor,Rolling,Wooded,Firm,Bde,32,Raid by Task Force Baum of CCB
+131,WW I NW Europe,"US 2d Inf Div, approach to Chateau-Thierry",73,miles,117.48,17,hours,0.708,165.86,30-Dec-1899,30-Dec-1899,None,Motor,Rolling,Wooded,Firm,Div,32,"Chaumont-en-Vexim to May-en-Multien, by truck"
+132,WW I NW Europe,"US 2d Inf Div, approach to Chateau-Thierry",110,miles,177.03,22,hours,0.917,193.12,30-Dec-1899,30-Dec-1899,None,Motor,Rolling,Wooded,Firm,Bn,32,"US 7th Machine Gun Bn, by truck"
+133,WW II East Front,Vistula-Oder Operation,210,km,210.00,6,days,6,35.00,13-Jan-45,18-Jan-45,Lite,Foot,Steppe,Steppe,Firm,Army,33,Three Rifle Corps of the 21st Soviet Army
+134,WW II East Front,"Ukraine, Sov 322d Rifle Div, XV Corps attack",8,km,8.00,1,days,1,8.00,Jul-1944,Jul-1944,Hvy,Foot,Steppe,Steppe,Firm,Div,34,
+135,WW II East Front,"Ukraine, Sov XV Corps attack",8,km,8.00,1,days,1,8.00,14-Jul-44,14-Jul-44,Hvy,Foot,Steppe,Steppe,Firm,Div,34,Attack by 336th Rifle Div(-)(+) and 322 Rifle Div(-)(+)
+136,Wilson's Raid,"Eastport, AL to Jasper, AL",80,miles,128.75,6,days,6,21.46,22-Mar-65,27-Mar-65,None,Horse,Hilly,Forest,Wet,13500,35,"Rugged, wooded terrain. Year is 1865"
+137,Wilson's Raid,"Jasper, AL to Locust Fork, AL",25,miles,40.23,1,days,1,40.23,28-Mar-65,28-Mar-65,None,Horse,Hilly,Forest,Wet,13500,35,
+138,Wilson's Raid,"Locust Fork R., LA to Elyton, AL",20,miles,32.19,1,days,1,32.19,29-Mar-65,29-Mar-65,None,Horse,Hilly,Forest,Wet,13500,35,
+139,Wilson's Raid,"Elyton, AL to Cahaba R., AL",12,miles,19.31,1,days,1,19.31,30-Mar-65,30-Mar-65,Lite,Horse,Hilly,Forest,Wet,13500,35,
+140,Wilson's Raid,"Cahaba R., AL to South of Montevallo, AL",27,miles,43.45,1,days,1,43.45,31-Mar-65,31-Mar-65,Med,Horse,Rolling,Open,Firm,13500,35,
+141,Wilson's Raid,"S of Montevallo, AL to Ebenezer Church, AL",23,miles,37.01,1,days,1,37.01,01-Apr-65,01-Apr-65,Hvy,Horse,Rolling,Open,Firm,13500,35,
+142,Wilson's Raid,"Ebenezer Church, AL to Selma, AL",21,miles,33.80,1,days,1,33.80,02-Apr-65,02-Apr-65,Hvy,Horse,Rolling,Open,Firm,13500,35,
+143,Wilson's Raid,"at Selma, AL",0,miles,0.00,7,days,7,0.00,03-Apr-65,09-Apr-65,None,Horse,Rolling,Open,Firm,13500,35,
+144,Wilson's Raid,"Selma, AL to Lowndesboro, AL",30,miles,48.28,1,days,1,48.28,10-Apr-65,10-Apr-65,Lite,Horse,Rolling,Open,Firm,13500,35,
+145,Wilson's Raid,"Lowndesboro, AL to Catoma Cr., AL",24,miles,38.62,1,days,1,38.62,11-Apr-65,11-Apr-65,Lite,Horse,Rolling,Open,Firm,13500,35,
+146,Wilson's Raid,"Catoma Cr., AL to Montgomery, AL",5,miles,8.05,1,days,1,8.05,12-Apr-65,12-Apr-65,Lite,Horse,Rolling,Open,Firm,13500,35,
+147,Wilson's Raid,"at Montgomery, AL",0,miles,0.00,1,days,1,0.00,13-Apr-65,13-Apr-65,Lite,Horse,Rolling,Open,Firm,11500,35,"Croxton's ""Lost Brigade"" detached"
+148,Wilson's Raid,"Montgomery, AL to Tuskegee, AL",45,miles,72.42,2,days,2,36.21,14-Apr-65,15-Apr-65,Lite,Horse,Rolling,Open,Firm,11500,35,
+149,Wilson's Raid,"Tuskegee, AL to Columbus, GA",50,miles,80.47,1,days,1,80.47,16-Apr-65,16-Apr-65,Hvy,Horse,Rolling,Open,Firm,11500,35,
+150,Wilson's Raid,"at Columbus, GA",0,miles,0.00,1,days,1,0.00,17-Apr-65,17-Apr-65,None,Horse,Rolling,Open,Firm,11500,35,
+151,Wilson's Raid,"Columbus, GA to Double Bridge, GA",45,miles,72.42,1,days,1,72.42,18-Apr-65,18-Apr-65,Lite,Horse,Rolling,Open,Firm,11500,35,
+152,Wilson's Raid,"Double Bridge, GA to Thomaston, GA",8,miles,12.87,1,days,1,12.87,19-Apr-65,19-Apr-65,Lite,Horse,Rolling,Open,Firm,11500,35,
+153,Wilson's Raid,"Thomaston, GA to Macon, GA",45,miles,72.42,1,days,1,72.42,20-Apr-65,20-Apr-65,Lite,Horse,Rolling,Open,Firm,11500,35,
+154,Wilson's Raid,Total,460,miles,740.30,30,days,30,24.68,22-Mar-65,20-Apr-65,NA,Horse,Rolling,Open,Firm,12500,35,
+155,Jefferson Davis Flite,"Richmond, VA to Danville, VA",160,miles,257.50,1,days,1,257.50,02-Apr-65,02-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,Year is 1865. Small party for escort and support.
+156,Jefferson Davis Flite,"at Danville, VA",0,miles,0.00,8,days,8,0.00,03-Apr-65,10-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,
+157,Jefferson Davis Flite,"Danville, VA to Greensboro, NC",50,miles,80.47,1,days,1,80.47,11-Apr-65,11-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,
+158,Jefferson Davis Flite,"at Greensboro, NC",0,miles,0.00,4,days,4,0.00,12-Apr-65,15-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,
+159,Jefferson Davis Flite,"Greensboro, NC to Charlotte, NC",115,miles,185.07,3,days,2,92.54,16-Apr-65,18-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,
+160,Jefferson Davis Flite,"at Charlotte, NC",0,miles,0.00,9,days,9,0.00,19-Apr-65,27-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,
+161,Jefferson Davis Flite,"Charlotte, NC to York, SC",30,miles,48.28,1,days,1,48.28,28-Apr-65,28-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,
+162,Jefferson Davis Flite,"at York, SC",0,miles,0.00,1,days,1,0.00,29-Apr-65,29-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,
+163,Jefferson Davis Flite,"York, SC to Union, SC",35,miles,56.33,1,days,1,56.33,30-Apr-65,30-Apr-65,None,Horse,Rolling,NA,Firm,NA,35,
+164,Jefferson Davis Flite,"at Union, SC",0,miles,0.00,1,days,1,0.00,01-May-65,01-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+165,Jefferson Davis Flite,"Union, SC to Abbeville, SC",70,miles,112.65,1,days,1,112.65,02-May-65,02-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+166,Jefferson Davis Flite,"at Abbeville, SC",0,miles,0.00,1,days,1,0.00,03-May-65,03-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+167,Jefferson Davis Flite,"Abbeville, SC to Washington, GA",66,miles,106.22,1,days,1,106.22,04-May-65,04-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+168,Jefferson Davis Flite,"Washington, GA to Sandersville, GA",80,miles,128.75,1,days,1,128.75,05-May-65,05-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+169,Jefferson Davis Flite,"at Sandersville, GA",0,miles,0.00,2,days,2,0.00,06-May-65,07-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+170,Jefferson Davis Flite,"Sandersville, GA to Abbeville, GA",110,miles,177.03,1,days,1,177.03,08-May-65,08-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+171,Jefferson Davis Flite,"at Abbeville, GA",0,miles,0.00,1,days,1,0.00,09-May-65,09-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+172,Jefferson Davis Flite,"Abbeville, GA to Irwinville, GA",40,miles,64.37,1,days,1,64.37,10-May-65,10-May-65,None,Horse,Rolling,NA,Firm,NA,35,
+173,Jefferson Davis Flite,Total,756,miles,1216.66,39,days,39,31.20,02-Apr-65,10-May-65,None,Horse,Rolling,NA,Firm,NA,35,
