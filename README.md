@@ -4,11 +4,11 @@
 
 The `docs/` directory holds three research papers by Robert L. Helmbold, US Army Concepts Analysis Agency (CAA), Bethesda, MD. All three are approved for public release.
 
-| File | DTIC accession | CAA report | Title | Date | Pages |
-|------|----------------|------------|-------|------|-------|
-| [`docs/DTIC_ADA217891.pdf`](docs/DTIC_ADA217891.pdf) | ADA217891 | CAA-RP-90-03 | *A Survey of Past Work on Rates of Advance in Land Combat Operations* | February 1990 | 131 |
-| [`docs/DTIC_ADA220426.pdf`](docs/DTIC_ADA220426.pdf) | ADA220426 | CAA-RP-90-04 | *A Compilation of Data on Rates of Advance in Land Combat Operations* | February 1990 | 428 |
-| [`docs/DTIC_ADA225635.pdf`](docs/DTIC_ADA225635.pdf) | ADA225635 | CAA-RP-90-01 | *Rates of Advance in Historical Land Combat Operations* | June 1990 | 160 |
+  | File                                                 | DTIC accession | CAA report   | Title                                                                 | Date          | Pages |
+  | ---------------------------------------------------- | -------------- | ------------ | --------------------------------------------------------------------- | ------------- | ----- |
+  | [`docs/DTIC_ADA217891.pdf`](docs/DTIC_ADA217891.pdf) | ADA217891      | CAA-RP-90-03 | *A Survey of Past Work on Rates of Advance in Land Combat Operations* | February 1990 | 131   |
+  | [`docs/DTIC_ADA220426.pdf`](docs/DTIC_ADA220426.pdf) | ADA220426      | CAA-RP-90-04 | *A Compilation of Data on Rates of Advance in Land Combat Operations* | February 1990 | 428   |
+  | [`docs/DTIC_ADA225635.pdf`](docs/DTIC_ADA225635.pdf) | ADA225635      | CAA-RP-90-01 | *Rates of Advance in Historical Land Combat Operations*               | June 1990     | 160   |
 
 ## Data
 
@@ -16,25 +16,25 @@ All data come from CAA-RP-90-04 (`docs/DTIC_ADA220426.pdf`). Appendix A compiles
 of historical advances; each has a short introduction followed by a data table. Appendix B
 collects 26 anecdotal notes on rates of advance that do not lend themselves to tabulation.
 
-| File | Contents |
-|------|----------|
-| [`data/datasets.json`](data/datasets.json) | The Appendix A index (p A-1) and the introduction to each data base, one object per data base. |
-| [`data/tables/<ID>.csv`](data/tables/) | The data table of each data base, one row per data item. |
-| [`data/anecdotes.json`](data/anecdotes.json) | The Appendix B notes, one object per note. |
+  | File                                         | Contents                                                                                       |
+  | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+  | [`data/datasets.json`](data/datasets.json)   | The Appendix A index (p A-1) and the introduction to each data base, one object per data base. |
+  | [`data/tables/<ID>.csv`](data/tables/)       | The data table of each data base, one row per data item.                                       |
+  | [`data/anecdotes.json`](data/anecdotes.json) | The Appendix B notes, one object per note.                                                     |
 
 ### `datasets.json`
 
 A JSON array of 30 objects, in index order, with these fields:
 
-| Field | Source |
-|-------|--------|
-| `number`, `id`, `first_page`, `n_items` | The report's index (p A-1): number, short name (e.g. `ACSDB`), first page of the entry, and number of data items. |
-| `n_rows`, `n_columns` | Size of `tables/<id>.csv` (data rows, excluding the header); `null` where there is no table. `n_rows` differs from `n_items` for BAORG and ROWLAND (see below). |
-| `title`, `author`, `date`, `organization`, `available_from` | Paragraph 1 ("Data Source"), as printed. `null` where the source gives "NA". |
-| `numbers` | Paragraph 1e (report or contract numbers) as a list; empty where the source gives "NA". |
-| `data_description` | Paragraph 2, markdown. |
-| `discussion_and_comments` | Paragraph 3, markdown. |
-| `data_table_notes` | Paragraph 4, markdown; `null` where the source says "None". |
+  | Field                                                       | Source                                                                                                                                                          |
+  | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | `number`, `id`, `first_page`, `n_items`                     | The report's index (p A-1): number, short name (e.g. `ACSDB`), first page of the entry, and number of data items.                                               |
+  | `n_rows`, `n_columns`                                       | Size of `tables/<id>.csv` (data rows, excluding the header); `null` where there is no table. `n_rows` differs from `n_items` for BAORG and ROWLAND (see below). |
+  | `title`, `author`, `date`, `organization`, `available_from` | Paragraph 1 ("Data Source"), as printed. `null` where the source gives "NA".                                                                                    |
+  | `numbers`                                                   | Paragraph 1e (report or contract numbers) as a list; empty where the source gives "NA".                                                                         |
+  | `data_description`                                          | Paragraph 2, markdown.                                                                                                                                          |
+  | `discussion_and_comments`                                   | Paragraph 3, markdown.                                                                                                                                          |
+  | `data_table_notes`                                          | Paragraph 4, markdown; `null` where the source says "None".                                                                                                     |
 
 The text is a faithful transcription with scanning errors corrected; the source's own errors
 (e.g. ACSDB's "16 January 1944") are kept. In the markdown, lettered items (`a.`, `b.`) are
@@ -45,38 +45,38 @@ markdown tables.
 
 Index items and table sizes (also in `datasets.json`):
 
-| No. | ID | First page | Items (index) | Rows (CSV) | Columns |
-|----:|----|------|------:|------:|------:|
-| 1 | ACSDB | A-5 | 3401 | 3401 | 10 |
-| 2 | ALEXANDE | A-65 | 124 | 124 | 17 |
-| 3 | ANDREWS | A-74 | 55 | 55 | 17 |
-| 4 | BAORG | A-80 | 330 | 331 | 19 |
-| 5 | CAESAR | A-99 | 27 | 27 | 18 |
-| 6 | CDB90 | A-102 | 660 | 660 | 38 |
-| 7 | DESANTIS | A-155 | 84 | 84 | 17 |
-| 8 | EASTFRON | A-161 | 212 | 212 | 18 |
-| 9 | ENGELS | A-173 | 19 | 19 | 17 |
-| 10 | GLANTZ | A-176 | 114 | 114 | 18 |
-| 11 | GUSTAVUS | A-184 | 8 | 8 | 17 |
-| 12 | HANNIBAL | A-187 | 4 | 4 | 17 |
-| 13 | HULSE | A-190 | 19 | 19 | 17 |
-| 14 | LONGMARX | A-194 | 371 | 371 | 18 |
-| 15 | MISCROAD | A-214 | 173 | 173 | 20 |
-| 16 | NAPOLEON | A-229 | 31 | 31 | 17 |
-| 17 | NORMANDY | A-232 | 50 | 50 | 19 |
-| 18 | ORALFORE | A-239 | 360 | 360 | 18 |
-| 19 | OVERHOLT | A-259 | 0 | — | — |
-| 20 | PARSONS | A-261 | 33 | 33 | 18 |
-| 21 | QUICKWIN | A-265 | 30 | 30 | 18 |
-| 22 | RADZIEV | A-270 | 40 | 40 | 18 |
-| 23 | RAND | A-273 | 0 | — | — |
-| 24 | RECORD | A-275 | 22 | 22 | 18 |
-| 25 | RMC | A-278 | 250 | 250 | 28 |
-| 26 | ROWLAND | A-295 | 288 | 317 | 17 |
-| 27 | SAVKIN | A-313 | 81 | 81 | 18 |
-| 28 | SIEGFRIE | A-318 | 40 | 40 | 19 |
-| 29 | WAINSTEI | A-323 | 237 | 237 | 13 |
-| 30 | XENOPHON | A-337 | 38 | 38 | 17 |
+  | No. | ID       | First page | Items (index) | Rows (CSV) | Columns |
+  | --: | -------- | ---------- | ------------: | ---------: | ------: |
+  |   1 | ACSDB    | A-5        |          3401 |       3401 |      10 |
+  |   2 | ALEXANDE | A-65       |           124 |        124 |      17 |
+  |   3 | ANDREWS  | A-74       |            55 |         55 |      17 |
+  |   4 | BAORG    | A-80       |           330 |        331 |      19 |
+  |   5 | CAESAR   | A-99       |            27 |         27 |      18 |
+  |   6 | CDB90    | A-102      |           660 |        660 |      38 |
+  |   7 | DESANTIS | A-155      |            84 |         84 |      17 |
+  |   8 | EASTFRON | A-161      |           212 |        212 |      18 |
+  |   9 | ENGELS   | A-173      |            19 |         19 |      17 |
+  |  10 | GLANTZ   | A-176      |           114 |        114 |      18 |
+  |  11 | GUSTAVUS | A-184      |             8 |          8 |      17 |
+  |  12 | HANNIBAL | A-187      |             4 |          4 |      17 |
+  |  13 | HULSE    | A-190      |            19 |         19 |      17 |
+  |  14 | LONGMARX | A-194      |           371 |        371 |      18 |
+  |  15 | MISCROAD | A-214      |           173 |        173 |      20 |
+  |  16 | NAPOLEON | A-229      |            31 |         31 |      17 |
+  |  17 | NORMANDY | A-232      |            50 |         50 |      19 |
+  |  18 | ORALFORE | A-239      |           360 |        360 |      18 |
+  |  19 | OVERHOLT | A-259      |             0 |          — |       — |
+  |  20 | PARSONS  | A-261      |            33 |         33 |      18 |
+  |  21 | QUICKWIN | A-265      |            30 |         30 |      18 |
+  |  22 | RADZIEV  | A-270      |            40 |         40 |      18 |
+  |  23 | RAND     | A-273      |             0 |          — |       — |
+  |  24 | RECORD   | A-275      |            22 |         22 |      18 |
+  |  25 | RMC      | A-278      |           250 |        250 |      28 |
+  |  26 | ROWLAND  | A-295      |           288 |        317 |      17 |
+  |  27 | SAVKIN   | A-313      |            81 |         81 |      18 |
+  |  28 | SIEGFRIE | A-318      |            40 |         40 |      19 |
+  |  29 | WAINSTEI | A-323      |           237 |        237 |      13 |
+  |  30 | XENOPHON | A-337      |            38 |         38 |      17 |
 
 OVERHOLT and RAND present their data only as graphs, so they have no table.
 
@@ -117,14 +117,14 @@ on cases not in Appendix A, or more detail on a few that are. The compiler calls
 "opportunity sample". It is a JSON array of 26 objects, in the report's order (alphabetical by
 short name), with these fields:
 
-| Field | Source |
-|-------|--------|
-| `number` | Position in the appendix (1-26). |
-| `id` | The note's short name as printed, e.g. `ARNOLD'S EXPEDITION`, `FM 100-5`. |
-| `page` | Printed page where the note starts, e.g. `B-3`. |
-| `title`, `author`, `date`, `organization` | Paragraph 1 ("Source"), as printed. |
-| `notes` | Paragraph 2, markdown: the quoted or summarized passages with their page cites, often with a rate worked out by the compiler. Some notes include tables (e.g. CUSTER's daily marches, ARTILLERY USAGE IN WORLD WAR II's Table B-1). |
-| `comments` | Paragraph 3, markdown; `null` where the source says "None". |
+  | Field                                     | Source                                                                                                                                                                                                                              |
+  | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | `number`                                  | Position in the appendix (1-26).                                                                                                                                                                                                    |
+  | `id`                                      | The note's short name as printed, e.g. `ARNOLD'S EXPEDITION`, `FM 100-5`.                                                                                                                                                           |
+  | `page`                                    | Printed page where the note starts, e.g. `B-3`.                                                                                                                                                                                     |
+  | `title`, `author`, `date`, `organization` | Paragraph 1 ("Source"), as printed.                                                                                                                                                                                                 |
+  | `notes`                                   | Paragraph 2, markdown: the quoted or summarized passages with their page cites, often with a rate worked out by the compiler. Some notes include tables (e.g. CUSTER's daily marches, ARTILLERY USAGE IN WORLD WAR II's Table B-1). |
+  | `comments`                                | Paragraph 3, markdown; `null` where the source says "None".                                                                                                                                                                         |
 
 The same transcription rules apply as for `datasets.json`.
 
