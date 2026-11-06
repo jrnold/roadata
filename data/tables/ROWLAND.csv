@@ -1,0 +1,318 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,comments
+1,Winchester Campaign,"Jackson, via Front Royal",24.0,38.62,1,1,38.62,23-May-1862,23-May-1862,None,Foot,Rolling,Temperate,Firm,NA,"Jackson's Valley Campaign (part), Am. Civil War"
+2,Winchester Campaign,to Winchester,17.4,28.00,1,1,28.00,24-May-1862,24-May-1862,None,Foot,Rolling,Temperate,Firm,NA,
+3,Winchester Campaign,Victory at Winchester,5.0,8.05,1,1,8.05,25-May-1862,25-May-1862,Hvy,Foot,Rolling,Temperate,Firm,NA,Jackson defeated Banks
+4,Winchester Campaign,at Winchester,0.0,0.00,2,2,0.00,26-May-1862,27-May-1862,None,Foot,Rolling,Temperate,Firm,NA,
+5,Winchester Campaign,to Charles Town,16.8,27.04,1,1,27.04,28-May-1862,28-May-1862,None,Foot,Rolling,Temperate,Firm,NA,
+6,Winchester Campaign,return to Winchester,21.8,35.08,1,1,35.08,29-May-1862,29-May-1862,None,Foot,Rolling,Temperate,Firm,NA,
+7,Winchester Campaign,at Winchester,0.0,0.00,1,1,0.00,30-May-1862,30-May-1862,None,Foot,Rolling,Temperate,Firm,NA,
+8,Winchester Campaign,to Strasbourg,14.5,23.34,1,1,23.34,31-May-1862,31-May-1862,None,Foot,Rolling,Temperate,Firm,NA,
+9,Winchester Campaign,to Woodstock,8.7,14.00,1,1,14.00,1-Jun-1862,1-Jun-1862,None,Foot,Rolling,Temperate,Firm,NA,
+10,Winchester Campaign,to Mount Jackson,13.1,21.08,2,2,10.54,2-Jun-1862,3-Jun-1862,None,Foot,Rolling,Temperate,Firm,NA,
+11,Winchester Campaign,to Cross Keys,29.1,46.83,2,2,23.42,4-Jun-1862,5-Jun-1862,None,Foot,Rolling,Temperate,Firm,NA,
+12,Winchester Campaign,Total,150.4,242.05,14,14,17.29,23-May-1862,5-Jun-1862,None,Foot,Rolling,Temperate,Firm,NA,
+13,Second Bull Run,"Jackson, Brandy Station to Salem",28.3,45.54,1,1,45.54,25-Aug-1862,25-Aug-1862,None,Foot,Flat,Temperate,Firm,NA,"Jackson's march to outflank Pope, Am. Civil War"
+14,Second Bull Run,to Bristoe Station,27.7,44.58,1,1,44.58,26-Aug-1862,26-Aug-1862,None,Foot,Flat,Temperate,Firm,NA,
+15,Second Bull Run,Total,56.0,90.12,2,2,45.06,25-Aug-1862,26-Aug-1862,None,Foot,Flat,Temperate,Firm,NA,
+16,Vicksburg Campaign,"Grierson, Grand Junction to Yalabusha River",84.6,136.15,4,4,34.04,17-Apr-1863,20-Apr-1863,None,Horse,NA,Temperate,Firm,1700,"Grierson's Cavalry Raid, Am. Civil War"
+17,Vicksburg Campaign,to Jackson-Meridian Railroad,107.7,173.33,4,4,43.33,21-Apr-1863,24-Apr-1863,None,Horse,NA,Temperate,Firm,NA,
+18,Vicksburg Campaign,to Mississippi Central Railroad,92.3,148.54,3,3,49.51,25-Apr-1863,27-Apr-1863,None,Horse,NA,Temperate,Firm,NA,
+19,Vicksburg Campaign,to Baton Rouge,123.1,198.11,5,5,39.62,28-Apr-1863,2-May-1863,None,Horse,NA,Temperate,Firm,NA,
+20,Vicksburg Campaign,Total,407.7,656.13,16,16,41.01,17-Apr-1863,2-May-1863,None,Horse,NA,Temperate,Firm,NA,
+21,Wilderness Campaign,"Sheridan, towards North Anna River",27.1,43.61,1,1,43.61,9-May-1864,9-May-1864,None,Horse,Flat,Temperate,Firm,10000,"Sheridan's Cavalry Corps, Am. Civil War"
+22,Wilderness Campaign,to South Anna River,18.1,29.13,1,1,29.13,10-May-1864,10-May-1864,None,Horse,Flat,Temperate,Firm,10000,
+23,Wilderness Campaign,to South-East Mechanicsville,23.2,37.34,1,1,37.34,11-May-1864,11-May-1864,None,Horse,Flat,Temperate,Firm,10000,
+24,Wilderness Campaign,to Haxall's Landing,19.9,32.03,1,1,32.03,12-May-1864,12-May-1864,None,Horse,Flat,Temperate,Firm,10000,
+25,Wilderness Campaign,Total,88.3,142.11,4,4,35.53,9-May-1864,12-May-1864,None,Horse,Flat,Temperate,Firm,10000,
+26,Washington Raid,"Early, Winchester to Marlinsburg",22.4,36.05,1,1,36.05,3-Jul-1864,3-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,"Jubal Early's Corps, Am. Civil War"
+27,Washington Raid,to Harper's Ferry,14.9,23.98,1,1,23.98,4-Jul-1864,4-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+28,Washington Raid,to Sharpsburg,9.6,15.45,1,1,15.45,5-Jul-1864,5-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+29,Washington Raid,at Sharpsburg,0.0,0.00,2,2,0.00,6-Jul-1864,7-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+30,Washington Raid,to Catoctin Mountain,14.9,23.98,1,1,23.98,8-Jul-1864,8-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+31,Washington Raid,to Monocacy,11.7,18.83,1,1,18.83,9-Jul-1864,9-Jul-1864,Hvy,Foot,Rolling,Temperate,Firm,15000,"Defeat of some 7,000 union troops"
+32,Washington Raid,to Rockville,21.3,34.28,1,1,34.28,10-Jul-1864,10-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+33,Washington Raid,to Fort Stevens,11.7,18.83,1,1,18.83,11-Jul-1864,11-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+34,Washington Raid,Fighting around Fort Stevens,0.0,0.00,1,1,0.00,12-Jul-1864,12-Jul-1864,Hvy,Foot,Rolling,Temperate,Firm,15000,"Withdrew in evening as 10,000 Union troops arrived"
+35,Washington Raid,to White's Ford,29.9,48.12,1,1,48.12,13-Jul-1864,13-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+36,Washington Raid,to Leesburg (cross Potomac River),4.3,6.92,1,1,6.92,14-Jul-1864,14-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+37,Washington Raid,Total,140.7,226.43,12,12,18.87,3-Jul-1864,14-Jul-1864,None,Foot,Rolling,Temperate,Firm,15000,
+38,Boer War,"French, from Ramdam across River Riet",12.8,20.60,1,1,20.60,11-Feb-00,11-Feb-00,None,Foot,NA,Temperate,Firm,5000,"French's Cavalry Division, Boer War"
+39,Boer War,to the River Modder,25.6,41.20,1,1,41.20,12-Feb-00,12-Feb-00,None,Foot,NA,Temperate,Firm,5000,
+40,Boer War,Waiting for baggage on River Modder,0.0,0.00,1,1,0.00,13-Feb-00,13-Feb-00,None,Foot,NA,Temperate,Firm,5000,
+41,Boer War,to Kimberly,19.6,31.54,1,1,31.54,14-Feb-00,14-Feb-00,Med,Foot,NA,Temperate,Firm,5000,
+42,Boer War,Pursuing Boers North of Kimberly,24.3,39.11,1,1,39.11,15-Feb-00,15-Feb-00,None,Foot,NA,Temperate,Firm,5000,
+43,Boer War,"towards Vendulie Drift, River Modder",29.6,47.64,1,1,47.64,16-Feb-00,16-Feb-00,None,Foot,NA,Temperate,Firm,5000,
+44,Boer War,Total,111.9,180.09,6,6,30.01,11-Feb-00,16-Feb-00,None,Foot,NA,Temperate,Firm,5000,
+45,Schlieffen Plan,"Ger II Corps, 1st Army, to Veerle",18.2,29.29,1,1,29.29,18-Aug-14,18-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,"Schlieffen Plan, World War I"
+46,Schlieffen Plan,to River Dyle,12.1,19.47,1,1,19.47,19-Aug-14,19-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+47,Schlieffen Plan,to Vivorde,10.9,17.54,1,1,17.54,20-Aug-14,20-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+48,Schlieffen Plan,to West of Brussels,8.5,13.68,1,1,13.68,21-Aug-14,21-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+49,Schlieffen Plan,to Ninove,13.3,21.40,1,1,21.40,22-Aug-14,22-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+50,Schlieffen Plan,to La Hamaiade,19.1,30.74,1,1,30.74,23-Aug-14,23-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+51,Schlieffen Plan,to Conde,22.7,36.53,1,1,36.53,24-Aug-14,24-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+52,Schlieffen Plan,to Bouchain,17.2,27.68,1,1,27.68,25-Aug-14,25-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+53,Schlieffen Plan,to Hermies,19.2,30.90,1,1,30.90,26-Aug-14,26-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+54,Schlieffen Plan,to East of Combles,12.4,19.96,1,1,19.96,27-Aug-14,27-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+55,Schlieffen Plan,to River Somme,8.1,13.04,1,1,13.04,28-Aug-14,28-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+56,Schlieffen Plan,to Proyart,6.0,9.66,1,1,9.66,29-Aug-14,29-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+57,Schlieffen Plan,to Moreuil,16.3,26.15,1,1,26.15,30-Aug-14,30-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+58,Schlieffen Plan,to Maignelay,16.7,26.88,1,1,26.88,31-Aug-14,31-Aug-14,Med,Foot,Flat,Temperate,Firm,Corps,
+59,Schlieffen Plan,To Verbiere,19.6,31.54,1,1,31.54,01-Sep-14,01-Sep-14,Med,Foot,Flat,Temperate,Firm,Corps,
+60,Schlieffen Plan,to Senlis,10.5,16.90,1,1,16.90,02-Sep-14,02-Sep-14,Med,Foot,Flat,Temperate,Firm,Corps,
+61,Schlieffen Plan,to Nateuil,11.5,18.51,1,1,18.51,03-Sep-14,03-Sep-14,Med,Foot,Flat,Temperate,Firm,Corps,
+62,Schlieffen Plan,to River Marne,17.2,27.68,1,1,27.68,04-Sep-14,04-Sep-14,Med,Foot,Flat,Temperate,Firm,Corps,"On this date 1st Army signalled it had ""reached the limit of its endurance."""
+63,Schlieffen Plan,to Coulommiers,13.9,22.37,1,1,22.37,05-Sep-14,05-Sep-14,Med,Foot,Flat,Temperate,Firm,Corps,
+64,Schlieffen Plan,Total,273.4,439.91,19,19,23.15,18-Aug-14,05-Sep-14,Med,Foot,Flat,Temperate,Firm,Corps,
+65,Cavalry at Gaza,Brit 5th Cav Division(-) to Acre,65.0,104.61,5,5,20.92,19-Sep-18,23-Sep-18,NA,Horse,Rolling,Desert,Firm,Div,
+66,Cavalry at Gaza,Elements 5th Cavalry Division,54.5,87.71,5,5,17.54,19-Sep-18,23-Sep-18,NA,Horse,Rolling,Desert,Firm,Div,
+67,Cavalry at Gaza,4th Cavalry Division to River Jordan,56.5,90.93,5,5,18.19,19-Sep-18,23-Sep-18,NA,Horse,Rolling,Desert,Firm,Div,
+68,Cavalry at Gaza,Australian Cavalry Division(-) to Samakh,78.3,126.01,7,7,18.00,19-Sep-18,25-Sep-18,NA,Horse,Rolling,Desert,Firm,Div,
+69,Cavalry at Gaza,Elem. Aust. Cav Div towards Nazareth,76.5,123.11,6,6,20.52,19-Sep-18,24-Sep-18,NA,Horse,Rolling,Desert,Firm,Div,
+70,Battle of France,"Ger XXXVIII Korps, near Somme to Poix",20.0,32.19,3,3,10.73,05-Jun-40,07-Jun-40,Lite,Foot,Rolling,Temperate,Firm,Corps,"Manstein's XXXVIII Corps in France, World War II"
+71,Battle of France,to near Gournay,23.3,37.50,1,1,37.50,08-Jun-40,08-Jun-40,Lite,Foot,Rolling,Temperate,Firm,Corps,
+72,Battle of France,across Seine River,45.0,72.42,2,2,36.21,09-Jun-40,10-Jun-40,Lite,Foot,Rolling,Temperate,Firm,Corps,
+73,Battle of France,halted,0.0,0.00,2,2,0.00,11-Jun-40,12-Jun-40,Lite,Foot,Rolling,Temperate,Firm,Corps,
+74,Battle of France,Sennonches,50.0,80.47,4,4,20.12,13-Jun-40,16-Jun-40,Lite,Foot,Rolling,Temperate,Firm,Corps,
+75,Battle of France,to Le Mans,53.3,85.78,2,2,42.89,17-Jun-40,18-Jun-40,Lite,Foot,Rolling,Temperate,Firm,Corps,
+76,Battle of France,to Chalonnes,76.7,123.44,4,4,30.86,19-Jun-40,22-Jun-40,Lite,Foot,Rolling,Temperate,Firm,Corps,
+77,Battle of France,Total,268.3,431.79,18,18,23.99,05-Jun-40,22-Jun-40,Lite,Foot,Rolling,Temperate,Firm,Corps,
+78,Battle of Flanders,"Ger 2nd Panzer Div, to Stainchamps",20.9,33.64,1,1,33.64,10-May-40,10-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Guderian's XIX Corps to the Channel, World War II"
+79,Battle of Flanders,to Libramont,22.6,36.37,1,1,36.37,11-May-40,11-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+80,Battle of Flanders,to River Semois,13.9,22.37,1,1,22.37,12-May-40,12-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+81,Battle of Flanders,to Donchery,22.5,36.21,1,1,36.21,13-May-40,13-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Crossing of Meuse River
+82,Battle of Flanders,to Sapoyne,8.2,13.20,1,1,13.20,14-May-40,14-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+83,Battle of Flanders,to West of Poix-Terron,13.3,21.40,1,1,21.40,15-May-40,15-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+84,Battle of Flanders,towards River Oise,53.8,86.58,1,1,86.58,16-May-40,16-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Breakout from Meuse River bridgehead
+85,Battle of Flanders,to Oise-Sambre Canal,13.8,22.21,1,1,22.21,17-May-40,17-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Official halt ordered, but ""Reconnaissance in force"" continued"
+86,Battle of Flanders,to Canal du Nord,32.0,51.50,1,1,51.50,18-May-40,18-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+87,Battle of Flanders,halted,0.0,0.00,1,1,0.00,19-May-40,19-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+88,Battle of Flanders,to Noyelles (coast),64.0,103.00,1,1,103.00,20-May-40,20-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Reached coast of English Channel
+89,Battle of Flanders,Total,265.0,426.48,11,11,38.77,10-May-40,20-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+90,Battle of Flanders,"Ger 1st Panzer Div, to Witry",33.4,53.75,1,1,53.75,10-May-40,10-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Guderian's XIX Corps to the Channel, World War II"
+91,Battle of Flanders,to Bouillon,20.9,33.64,1,1,33.64,11-May-40,11-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+92,Battle of Flanders,to Sedan,13.9,22.37,1,1,22.37,12-May-40,12-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+93,Battle of Flanders,to Marfee Woods,7.3,11.75,1,1,11.75,13-May-40,13-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Crossing of Meuse River
+94,Battle of Flanders,to Singly,16.5,26.55,1,1,26.55,14-May-40,14-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+95,Battle of Flanders,to Bouvellemant,8.2,13.20,1,1,13.20,15-May-40,15-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+96,Battle of Flanders,to Marle,51.0,82.08,1,1,82.08,16-May-40,16-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Breakout from Meuse River bridgehead
+97,Battle of Flanders,to Ribemont,27.6,44.42,1,1,44.42,17-May-40,17-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Official halt ordered, but ""Reconnaissance in force"" continued"
+98,Battle of Flanders,to Peronne,27.6,44.42,1,1,44.42,18-May-40,18-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+99,Battle of Flanders,halted,0.0,0.00,1,1,0.00,19-May-40,19-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+100,Battle of Flanders,to South of Amiens,25.6,41.20,1,1,41.20,20-May-40,20-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+101,Battle of Flanders,Total,232.0,373.37,11,11,33.94,10-May-40,20-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+102,Battle of Flanders,"Ger 10th Panzer Div, to Estalle",30.6,49.25,1,1,49.25,10-May-40,10-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Guderian's XIX Corps to the Channel, World War II"
+103,Battle of Flanders,to Rossignol,13.9,22.37,1,1,22.37,11-May-40,11-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+104,Battle of Flanders,to Sedan,27.8,44.74,1,1,44.74,12-May-40,12-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+105,Battle of Flanders,toward Marfee Woods,3.7,5.95,1,1,5.95,13-May-40,13-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Crossing of Meuse River
+106,Battle of Flanders,to Roucourt et Flabas,10.1,16.25,1,1,16.25,14-May-40,14-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+107,Battle of Flanders,to La Besone,3.7,5.95,1,1,5.95,15-May-40,15-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+108,Battle of Flanders,halted,0.0,0.00,1,1,0.00,16-May-40,16-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Breakout from Meuse River bridgehead
+109,Battle of Flanders,to North of Rethel,27.6,44.42,1,1,44.42,17-May-40,17-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Official halt ordered, but ""Reconnaissance in force"" continued"
+110,Battle of Flanders,to Oise-Sambre Canal,40.0,64.37,1,1,64.37,18-May-40,18-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+111,Battle of Flanders,to Ham,17.8,28.65,1,1,28.65,19-May-40,19-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+112,Battle of Flanders,to Peronne,14.2,22.85,1,1,22.85,20-May-40,20-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+113,Battle of Flanders,Total,189.4,304.81,11,11,27.71,10-May-40,20-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+114,Battle of France,"Ger 1st Panzer Div, towards La Neuville",14.0,22.53,1,1,22.53,10-Jun-40,10-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Panzergruppe Guderian, XXXIX Panzer Corps, World War II"
+115,Battle of France,over River Suippes,21.0,33.80,1,1,33.80,11-Jun-40,11-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+116,Battle of France,to Suippes,14.0,22.53,1,1,22.53,12-Jun-40,12-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+117,Battle of France,over Rhine-Marne Canal,42.1,67.75,1,1,67.75,13-Jun-40,13-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+118,Battle of France,to Chaumont,56.1,90.28,1,1,90.28,14-Jun-40,14-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+119,Battle of France,to Gray sur Saone,56.1,90.28,1,1,90.28,15-Jun-40,15-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+120,Battle of France,to Besancon,45.0,72.42,1,1,72.42,16-Jun-40,16-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+121,Battle of France,to Montbeliard,47.7,76.77,1,1,76.77,17-Jun-40,17-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+122,Battle of France,to Belfort,16.4,26.39,1,1,26.39,18-Jun-40,18-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+123,Battle of France,to Welscher Belchen,23.2,37.34,1,1,37.34,19-Jun-40,19-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+124,Battle of France,to Gerardmer,16.4,26.39,1,1,26.39,20-Jun-40,20-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+125,Battle of France,Total,352.0,566.49,11,11,51.50,10-Jun-40,20-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+126,Battle of France,"Ger 29th Motorized Div, uncommitted",NA,NA,NA,NA,NA,10-Jun-40,10-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Panzergruppe Guderian, XXXIX Panzer Korps, World War II"
+127,Battle of France,uncommitted,NA,NA,NA,NA,NA,11-Jun-40,11-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+128,Battle of France,towards SE from Marmelon-Le-Grand,16.8,27.04,1,1,27.04,12-Jun-40,12-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+129,Battle of France,to Rhine-Marne Canal,21.0,33.80,1,1,33.80,13-Jun-40,13-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+130,Battle of France,over Rhine-Marne Canal,14.0,22.53,1,1,22.53,14-Jun-40,14-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+131,Battle of France,to SW of Langres,81.8,131.64,1,1,131.64,15-Jun-40,15-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+132,Battle of France,to Pontailler-su-Saone,16.4,26.39,1,1,26.39,16-Jun-40,16-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+133,Battle of France,to Pontarlier,61.4,98.81,1,1,98.81,17-Jun-40,17-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+134,Battle of France,over the Jura River,27.3,43.94,1,1,43.94,18-Jun-40,18-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+135,Battle of France,towards Belfort,27.3,43.94,1,1,43.94,19-Jun-40,19-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+136,Battle of France,to Belfort,16.4,26.39,1,1,26.39,20-Jun-40,20-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+137,Battle of France,Total,282.4,454.48,9,9,50.50,10-Jun-40,20-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+138,Battle of France,"Ger 2nd Panzer Div, towards River Suippes",12.6,20.28,1,1,20.28,10-Jun-40,10-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Panzergruppe Guderian, XXXIX Panzer Korps, World War II"
+139,Battle of France,over River Suippes,14.0,22.53,1,1,22.53,11-Jun-40,11-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+140,Battle of France,to SE of Chalons-su-Marne,21.0,33.80,1,1,33.80,12-Jun-40,12-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+141,Battle of France,to Rhine-Marne Canal,16.8,27.04,1,1,27.04,13-Jun-40,13-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+142,Battle of France,over Rhine-Marne Canal,21.0,33.80,1,1,33.80,14-Jun-40,14-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+143,Battle of France,to NE of Dijon,71.2,114.59,1,1,114.59,15-Jun-40,15-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+144,Battle of France,to Auxenne,42.1,67.75,1,1,67.75,16-Jun-40,16-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+145,Battle of France,to Remiremont,91.3,146.93,2,2,73.47,17-Jun-40,18-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+146,Battle of France,taking Fort Rupt,0.0,0.00,1,1,0.00,19-Jun-40,19-Jun-40,Hvy,Motor,Rolling,Temperate,Firm,Div,
+147,Battle of France,to Le Tholy,4.1,6.60,1,1,6.60,20-Jun-40,20-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+148,Battle of France,Total,294.1,473.31,11,11,43.03,10-Jun-40,20-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+149,Battle of Flanders,"Rommel's 7th Panzer Div, to Chabrehez",12.0,19.31,1,1,19.31,10-May-40,10-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Rommel's 7th Panzer Division, World War II, May 1940"
+150,Battle of Flanders,to Marche,23.9,38.46,1,1,38.46,11-May-40,11-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+151,Battle of Flanders,to River Meuse,21.0,33.80,1,1,33.80,12-May-40,12-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+152,Battle of Flanders,to Onhaye,4.3,6.92,1,1,6.92,13-May-40,13-May-40,Hvy,Motor,Rolling,Temperate,Firm,Div,Battle for Meuse River bridgehead
+153,Battle of Flanders,fighting at Onhaye,0.0,0.00,1,1,0.00,14-May-40,14-May-40,Hvy,Motor,Rolling,Temperate,Firm,Div,Battle for Meuse River bridgehead
+154,Battle of Flanders,to Cerfontaine,19.6,31.54,1,1,31.54,15-May-40,15-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+155,Battle of Flanders,to Avesnes,51.4,82.72,1,1,82.72,16-May-40,16-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Note 1
+156,Battle of Flanders,towards Le Cateau,19.0,30.58,1,1,30.58,17-May-40,17-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,Note 1
+157,Battle of Flanders,to Cambrai,17.8,28.65,1,1,28.65,18-May-40,18-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+158,Battle of Flanders,halted,0.0,0.00,1,1,0.00,19-May-40,19-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+159,Battle of Flanders,to Beurains,21.6,34.76,1,1,34.76,20-May-40,20-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+160,Battle of Flanders,Total,190.6,306.74,11,11,27.89,10-May-40,20-May-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+161,Battle of France,"Rommel's 7th Panzer Div, to Montagne-Le-Fayel",6.8,10.94,1,1,10.94,05-Jun-40,05-Jun-40,Hvy,Motor,Rolling,Temperate,Firm,Div,"Rommel's 7th Panzer Division, World War II, June 1940"
+162,Battle of France,to W of Thieulloy,13.6,21.89,1,1,21.89,06-Jun-40,06-Jun-40,Med,Motor,Rolling,Temperate,Firm,Div,Opposed
+163,Battle of France,to Sigy,27.3,43.96,1,1,43.94,07-Jun-40,07-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,Opposed
+164,Battle of France,to Elbeuf,34.1,54.88,1,1,54.88,08-Jun-40,08-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+165,Battle of France,halted on Seine,0.0,0.00,1,1,0.00,09-Jun-40,09-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,Halted by blowing of the Seine River bridges
+166,Battle of France,to St. Leonard,64.8,104.29,1,1,104.29,10-Jun-40,10-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+167,Battle of France,to St. Valery,13.6,21.89,1,1,21.89,11-Jun-40,11-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+168,Battle of France,Total,160.2,257.82,7,7,36.83,05-Jun-40,11-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+169,Battle of France,"Rommel's 7th Panzer Div, to La Haye Du Puits",150.0,241.40,1,1,241.40,17-Jun-40,17-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,"Rommel's 7th Panzer Division, World War II, June 1940. See Note 2."
+170,Battle of France,to outside Cherbourg,33.3,53.59,1,1,53.59,18-Jun-40,18-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+171,Battle of France,to Cherbourg,6.3,10.06,1,1,10.06,19-Jun-40,19-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+172,Battle of France,Total,189.6,305.05,3,3,101.68,17-Jun-40,19-Jun-40,Lite,Motor,Rolling,Temperate,Firm,Div,
+173,WW II North Africa,"Ger Panzerarmee Afrika, towards Mersa Matruh",100.0,160.93,1,1,160.93,24-Jun-42,24-Jun-42,None,Motor,Rolling,Desert,Firm,Army,Distance is approximate
+174,WW II Manchuria,Sov 6th Guards Tank Army (elements),93.2,149.99,1,1,149.99,09-Aug-45,09-Aug-45,None,Motor,Rolling,Desert,Firm,Army,See Note 3.
+175,WW II North Africa,"Brit 7th Armored Div, to Msus",91.4,147.09,1,1,147.09,04-Feb-41,04-Feb-41,None,Motor,Rolling,Desert,Firm,Div,
+176,WW II NW Europe,"US 11th Armored Div, to Neufchateau",88.2,144.94,1,1,141.94,29-Dec-44,29-Dec-44,None,Motor,Hilly,Temperate,Snow,Div,Administrative march
+177,WW II NW Europe,"US 4th Armored Div, to Baud",82.5,132.77,1,1,132.77,06-Aug-44,06-Aug-44,None,Motor,Hilly,Temperate,Firm,Div,
+178,Arab-Israeli War,"Is Tal Div (elements), via El Arish",75.0,120.70,1,1,120.70,05-Jun-67,05-Jun-67,None,Motor,Rolling,Desert,Firm,Div,
+179,WW II Manchuria,Sov 6th Guards Tank Army (elements),74.6,120.06,1,1,120.06,09-Aug-45,09-Aug-45,None,Motor,Flat,Desert,Firm,Army,See Note 3.
+180,WW II NW Europe,US 2nd Armored Div,72.7,117.00,2,2,58.50,21-Dec-44,22-Dec-44,None,Motor,Rolling,Temperate,Snow,Div,Administrative march
+181,WW II East Front,"Ger Panzergruppe Guderian (els), towards Minsk",72.0,115.87,1,1,115.87,28-Jun-41,28-Jun-41,None,Motor,Flat,Temperate,Firm,Group,Elements of Panzergruppe Guderian moving in the direction of Minsk
+182,WW II North Africa,"Brit 7th Armored Div, via Beda Fomm",68.6,110.40,1,1,110.40,05-Feb-41,05-Feb-41,None,Motor,Flat,Desert,Firm,Div,
+183,WW II NW Europe,"Brit 11th Armored Div, towards Antwerp",65.0,104.61,1,1,104.61,03-Sep-44,03-Sep-44,None,Motor,Flat,Temperate,Firm,Div,
+184,WW II NW Europe,"US 6th Armored Div, to Plouvray",63.0,101.39,1,1,101.39,04-Aug-44,04-Aug-44,None,Motor,Rolling,Temperate,Firm,Div,
+185,Arab-Israeli War,"Is Yoffe Div (elements), to Mitla Pass",119.0,191.51,2,2,95.76,06-Jun-67,07-Jun-67,Lite,Motor,Flat,Desert,Firm,Div,
+186,WW II North Africa,"Ger Afrika Korps, towards Benghazi",102.4,164.80,2,2,82.40,03-Apr-41,04-Apr-41,Lite,Motor,Flat,Desert,Firm,Corps,
+187,WW II North Africa,"Ger Panzerarmee Afrika, towards Mersa Matruh",50.0,80.47,1,1,80.47,25-Jun-42,25-Jun-42,Lite,Motor,Flat,Desert,Firm,Army,Distance is approximate
+188,WW II East Front,"Ger LVI Panzer Korps, to River Dubissa",50.0,80.47,1,1,80.47,22-Jun-41,22-Jun-41,Lite,Motor,Flat,Steppe,Firm,Corps,
+189,Arab-Israeli War,"Is Yoffe Div (elements), to Bas Sadr",99.4,159.97,2,2,79.98,08-Jun-67,09-Jun-67,Lite,Motor,Flat,Desert,Firm,Div,
+190,Arab-Israeli War,"Is Tal Division, to Ismailia",288.0,463.49,6,6,77.25,05-Jun-67,10-Jun-67,Lite,Motor,Flat,Desert,Firm,Div,
+191,WW II North Africa,"Ger Afrika Korps, to Agedabia",47.6,76.60,1,1,76.60,02-Apr-41,02-Apr-41,Lite,Motor,Flat,Desert,Firm,Corps,
+192,WW II East Front,"Ger XLVII Panzer Korps, to Prozhany",47.0,75.64,1,1,75.64,22-Jun-41,22-Jun-41,Lite,Motor,Flat,Steppe,Firm,Corps,
+193,WW II East Front,"Ger 8th Panzer Div, towards Daugavpils",185.0,297.73,4,4,74.43,22-Jun-41,25-Jun-41,Lite,Motor,Flat,Steppe,Firm,Div,
+194,WW II East Front,"Ger Panzergruppe Guderian, to Slonim",135.6,218.23,3,3,72.74,22-Jun-41,24-Jun-41,Lite,Motor,Flat,Steppe,Firm,Group,
+195,Arab-Israeli War,"Is Yoffe Div, to Abu Zenima",258.6,416.18,6,6,69.36,05-Jun-67,10-Jun-67,Lite,Motor,Flat,Desert,Firm,Div,
+196,WW II North Africa,"Ger Afrika Korps, to Mechili",83.3,134.06,2,2,67.03,05-Apr-41,06-Apr-41,Lite,Motor,Flat,Desert,Firm,Corps,
+197,WW II Manchuria,Sov 6th Guards Tank Army (elements),248.4,399.76,6,6,66.63,09-Aug-45,14-Aug-45,Lite,Motor,Flat,Desert,Firm,Army,See Note 3.
+198,WW II East Front,"Ger XXIV Panzer Korps, to Kobrin",41.0,65.98,1,1,65.98,22-Jun-41,22-Jun-41,Lite,Motor,Flat,Steppe,Firm,Corps,
+199,WW II NW Europe,"US 4th Armored Div, towards Rennes",37.5,60.35,1,1,60.35,01-Aug-44,01-Aug-44,Lite,Motor,Rolling,Temperate,Firm,Div,
+200,WW II NW Europe,"US 6th Armored Div, to Quedillac",37.5,60.35,1,1,60.35,02-Aug-44,02-Aug-44,Lite,Motor,Rolling,Temperate,Firm,Div,
+201,WW II Manchuria,Sov Trans-Baikal Front (elements),37.3,60.03,1,1,60.03,09-Aug-45,09-Aug-45,Lite,Motor,Flat,Desert,Firm,Front,See Note 3.
+202,WW II NW Europe,"US 4th Armored Div, Brittany",253.4,407.81,7,7,58.26,01-Aug-44,07-Aug-44,Med,Motor,Flat,Temperate,Firm,Div,
+203,WW II NW Europe,"US 4th Armored Div, to Redon",36.0,57.94,1,1,57.94,05-Aug-44,05-Aug-44,Lite,Motor,Rolling,Temperate,Firm,Div,
+204,Arab-Israeli War,"Is Yoffe Div, to Bir Lahfan",34.8,56.01,1,1,56.01,05-Jun-67,05-Jun-67,Lite,Motor,Flat,Desert,Firm,Div,
+205,WW II Manchuria,Sov-Mongolian Mecz Cav Grp to Chengteh,342.0,550.40,10,10,55.04,09-Aug-45,18-Aug-45,Lite,Motor,Flat,Desert,Firm,Grp,See note 3.
+206,WW II North Africa,"Ger Afrika Korps, to Halfaya Pass",467.6,752.53,14,14,53.75,02-Apr-41,15-Apr-41,Lite,Motor,Flat,Desert,Firm,Corps,
+207,WW II North Africa,"Ger Panzerarmee Afrika, to Alamein Line",332.5,535.11,10,10,53.51,21-Jun-42,30-Jun-42,Lite,Motor,Flat,Desert,Firm,Army,
+208,WW II NW Europe,"US 6th Armored Div, towards Huetgout",33.06,53.11,1,1,53.11,05-Aug-44,05-Aug-44,Lite,Motor,Rolling,Temperate,Firm,Div,
+209,WW II Manchuria,Sov Trans-Baikal Front (elements),31.1,50.05,1,1,50.05,09-Aug-45,09-Aug-45,Lite,Motor,Flat,Desert,Firm,Front,See note 3
+210,WW II NW Europe,"US 6th Armored Div, Brittany",216.3,348.10,7,7,49.73,01-Aug-44,07-Aug-44,Lite,Motor,Flat,Temperate,Firm,Div,
+211,WW II NW Europe,"US 4th Armored Div, towards Lorient",30.0,48.28,1,1,48.28,07-Aug-44,07-Aug-44,Lite,Motor,Flat,Temperate,Firm,Div,
+212,WW II North Africa,"Ger Afrika Korps, to El Adem",119.0,191.51,4,4,47.88,07-Apr-41,10-Apr-41,Lite,Motor,Flat,Desert,Firm,Corps,
+213,WW II NW Europe,"US 6th Armored Div, towards Autrain",28.5,45.87,1,1,45.87,01-Aug-44,01-Aug-44,Lite,Motor,Rolling,Temperate,Firm,Div,
+214,WW II NW Europe,"Brit 11th Armored Div, to Antwerp",196.7,316.56,7,7,45.22,29-Aug-44,04-Sep-44,Lite,Motor,Flat,Temperate,Firm,Div,
+215,WW II NW Europe,"US 4th Armored Div, towards Derval",55.5,89.32,2,2,44.66,02-Aug-44,03-Aug-44,Lite,Motor,Rolling,Temperate,Firm,Div,
+216,Arab-Israeli War,"Is Yoffe Div, to Abu Zenima",54.7,88.03,2,2,44.02,09-Jun-67,10-Jun-67,Lite,Motor,Rolling,Desert,Firm,Div,
+217,WW II Manchuria,Sov Trans-Baikal Front (elements),155.4,250.09,6,6,41.68,09-Aug-45,14-Aug-45,Lite,Motor,Flat,Desert,Firm,Front,See note 3
+218,WW II NW Europe,"Brit 12th Corps, to Ghent",177.8,286.14,7,7,40.88,31-Aug-44,06-Sep-44,Lite,Motor,Flat,Temperate,Firm,Corps,
+219,WW II Poland,"Ger XIX Korps, Poland",250.0,402.34,10,10,40.23,10-Sep-39,19-Sep-39,Lite,Motor,Rolling,Temperate,Firm,Corps,
+220,WW II East Front,"Sov 3rd Guards Tank Army, towards Lvov",74.7,120.22,3,3,40.07,22-Jul-44,24-Jul-44,Lite,Motor,Rolling,Temperate,Firm,Army,
+221,WW II Manchuria,Sov 36th Army,24.8,39.91,1,1,39.91,09-Aug-45,09-Aug-45,Lite,Motor,Flat,Desert,Firm,Army,See note 3.
+222,WW II North Africa,"Ger Africa Korps, to Halfaya Pass",116.0,186.68,5,5,37.34,11-Apr-41,15-Apr-41,Lite,Motor,Hilly,Desert,Firm,Corps,
+223,WW II NW Europe,"US 6th Armored Div, towards Brest",22.5,36.21,1,1,36.21,07-Aug-44,07-Aug-44,Lite,Motor,Flat,Temperate,Firm,Div,
+224,WW II NW Europe,"Brit 11th Armored Div, towards Antwerp",21.0,33.80,1,1,33.80,29-Aug-44,29-Aug-44,Lite,Motor,Flat,Temperate,Firm,Div,
+225,WW II Manchuria,Sov 2nd Far East Front (elements),124.2,199.88,6,6,33.31,09-Aug-45,14-Aug-45,Lite,Motor,Flat,Desert,Firm,Front,See note 3.
+226,Falklands,"Br 2nd Para, Sussex Mt. to Camilla Creek House",8.6,13.84,0.38,0.375,36.91,26-May-82,27-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,2200 26 May 1982 to 0700 27 May 1982 = 9 hours. See Notes 4 and 5.
+227,Falklands,"Br 45 Cmndo, Port San Carlos to New House",11.1,17.86,1,1,17.86,27-May-82,27-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,"Brit 45 Commando, circa 0630 to 2200 = 15.5 hours."
+228,Falklands,"Br 45 Cmndo, New House to Douglas Settlement",7.5,12.07,1,1,12.07,28-May-82,28-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,Circa 0630 to 1300 = 6.5 hours.
+229,Falklands,"Br 45 Cmndo, at Douglas Settlement",0.0,0.00,1,1,0.00,29-May-82,29-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,
+230,Falklands,"Br 45 Cmndo, Douglas Settlement to Teal Inlet",11.8,18.99,1,1,18.99,30-May-82,30-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,"Circa 1000 to 1730 = 7.5 hours, advance elements"
+231,Falklands,"Br 45 Cmndo, Douglas Settlement to Teal Inlet",11.8,18.99,1,1,18.99,30-May-82,30-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,"Circa 1000 to 2100 = 11 hours, main body"
+232,Falklands,"Br 45 Cmndo, at Teal Inlet",0.0,0.00,3,3,0.00,31-May-82,02-Jun-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,
+233,Falklands,"45 Cmndo, Teal Inlet to SE of Lower Malo House",8.3,13.28,1,1,13.28,03-Jun-82,03-Jun-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,Departed circa 0630
+234,Falklands,"45 Cmndo, SE of Lower Malo House to Mount Kent",7.5,12.07,1,1,12.07,04-Jun-82,04-Jun-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,
+235,Falklands,Total,58.0,93.26,10,10,9.33,27-May-82,04-Jun-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,
+236,Falklands,"Br 3 Para, Port San Carlos to Arroyo Pedro R.",17.9,28.81,2,2,14.40,27-May-82,28-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,"For route taken by A and C Companys, circa 1100 to 1100 = 24 hours"
+237,Falklands,"Br 3 Para, Port San Carlos to Arroyo Pedro R.",15.8,25.43,2,2,12.71,27-May-82,28-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,"For route taken by B Company, circa 1100 27 May to 1100 28 May = 24 hours"
+238,Falklands,"Br 3 Para, Arroyo Pedro R. to Teal Inlet",5.7,9.17,1,1,9.17,28-May-82,28-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,Circa 1615 to 2300 = 6.75 hours
+239,Falklands,"Br 3 Para, at Teal Inlet",0.0,0.00,1,1,0.00,29-May-82,29-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,
+240,Falklands,"Br 3 Para, Teal Inlet to Estancia House",15.8,25.43,2,2,12.71,30-May-82,31-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,Circa 1615 to 0630 and 1615 to 1740 = 15.67 hours
+241,Falklands,Total,55.2,88.84,8,8,11.10,27-May-82,31-May-82,None,Foot,Hilly,Sub-Arctic,Boggy,Bn,
+242,WW II Tunisia,"Br 2nd Parachute Bn, Depienne to S of Oudna",12.2,19.63,1,1,19.63,30-Nov-42,30-Nov-42,Hvy,Foot,Hilly,Desert,Sandy,Bn,"Note 6. Marched from 0001 to 1100, then fought around Oudna."
+243,WW II Tunisia,"Br 2nd Para Bn, disengaging",11.0,17.70,1,1,17.70,01-Dec-42,01-Dec-42,Hvy,Foot,Hilly,Desert,Sandy,Bn,"Marched from 1830 1 Dec to c. 0430 2 Dec, Djebel Sidi bou Hadjeba to"
+244,WW II Tunisia,"Br 2nd Para Bn, defense of ""Cactus Farm""",0.0,0.00,1,1,0.00,02-Dec-42,02-Dec-42,Hvy,Foot,Hilly,Desert,Sandy,Bn,"""Cactus Farm"" at El Fedja."
+245,WW II Tunisia,"Br 2nd Para Bn, El Fedja to Ksar Tyr",9.1,14.65,1,1,14.65,03-Dec-42,03-Dec-42,Lite,Foot,Hilly,Desert,Sandy,Bn,"Marched from c. 1800 2 Dec to 1200 3 Dec, El Fedja to Ksar Tyr."
+246,WW II Tunisia,Total,32.3,51.98,4,4,13.00,30-Nov-42,03-Dec-42,Varied,Foot,Hilly,Desert,Sandy,Bn,
+247,WW II NW Europe,"Br 4th Grenadier Guards, Rhade to Coesfeld",19.3,30.98,1,1,30.98,29-Mar-45,29-Mar-45,Lite,Motor,NA,NA,NA,Rgt,"Plus elements, 6th Airborne Div"
+248,WW II NW Europe,"ditto, to Greven",21.7,34.92,1,1,34.92,30-Mar-45,30-Mar-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+249,WW II NW Europe,"ditto, in Greven",0.0,0.00,1,1,0.00,31-Mar-45,31-Mar-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+250,WW II NW Europe,"ditto, to Dortmund-Ems canal",5.0,8.05,1,1,8.05,01-Apr-45,01-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+251,WW II NW Europe,"ditto, to Lengerich",8.0,12.87,1,1,12.87,02-Apr-45,02-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+252,WW II NW Europe,"ditto, to Wissingen",21.7,34.92,1,1,34.92,03-Apr-45,03-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+253,WW II NW Europe,"ditto, to Minden",42.0,67.59,1,1,67.59,04-Apr-45,04-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+254,WW II NW Europe,NA,NA,0.00,1,1,0.00,05-Apr-45,05-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+255,WW II NW Europe,NA,NA,0.00,1,1,0.00,06-Apr-45,06-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+256,WW II NW Europe,"ditto, Petershagen to Bordenau",30.0,48.28,1,1,48.28,07-Apr-45,07-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+257,WW II NW Europe,"Br 6th Guards Armd Bde, Peddenberg to Haltern",20.5,32.99,1,1,32.99,28-Mar-45,28-Mar-45,Lite,Motor,NA,NA,NA,Bde,"3 Scots Guards, 4 Coldstream Guards, and elements, US 17th Airborne Div"
+258,WW II NW Europe,"ditto, to Dulmen",7.5,12.07,1,1,12.07,29-Mar-45,29-Mar-45,Lite,Motor,NA,NA,NA,Bde,ditto
+259,WW II NW Europe,"ditto, (Coldstreams) to Appelhulsen",8.1,13.04,1,1,13.04,30-Mar-45,30-Mar-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+260,WW II NW Europe,"ditto, (Scots) to S of Nottuln",4.0,6.44,1,1,6.44,30-Mar-45,30-Mar-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+261,WW II NW Europe,"ditto, (Coldstreams) to Albachten",4.9,7.89,1,1,7.89,31-Mar-45,31-Mar-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+262,WW II NW Europe,"ditto, (Scots) to Bosensell",5.8,9.33,1,1,9.33,31-Mar-45,31-Mar-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+263,WW II NW Europe,"ditto, (Scots) to Roxel",3.8,6.04,1,1,6.04,01-Apr-45,01-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+264,WW II NW Europe,"ditto, (Coldstreams) to Munster",6.1,9.82,1,1,9.82,02-Apr-45,02-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+265,WW II NW Europe,"ditto, (Scots) to Munster",7.7,12.39,1,1,12.39,02-Apr-45,02-Apr-45,Lite,Motor,NA,NA,NA,Rgt,ditto
+266,WW II NW Europe,Br 6th Guards Armd Bde,,,,,,,,,,,,,,ditto
+267,WW II NW Europe,"ditto, N of Hanover to Ramlingen",15.8,25.43,1,1,25.43,11-Apr-45,11-Apr-45,Lite,Motor,NA,NA,NA,Bde,"3 Scots Guards, 4 Coldstream Guards, and elements, 15th Infantry Div"
+268,WW II NW Europe,"ditto, to Celle",9.3,14.97,1,1,14.97,12-Apr-45,12-Apr-45,Lite,Motor,NA,NA,NA,Bde,ditto
+269,WW II NW Europe,"ditto, to N of Weyhausen",17.5,28.16,1,1,28.16,13-Apr-45,13-Apr-45,Lite,Motor,NA,NA,NA,Bde,ditto
+270,WW II NW Europe,"ditto, to outskirts of Uelzen",14.6,23.50,1,1,23.50,14-Apr-45,14-Apr-45,Lite,Motor,NA,NA,NA,Bde,ditto
+271,WW II NW Europe,Total,57.2,92.05,4,4,23.01,11-Apr-45,14-Apr-45,Lite,Motor,NA,NA,NA,Bde,ditto
+272,WW II East Africa,"a. Advance to Mogadishu, 11-25 Feb 1941",,,,,,,,,,,,,,"Conquest of Somaliland, Feb-Apr 1941"
+273,WW II East Africa,"24 Gold Coast Bde, Afmandu to Afra Yak",40.0,64.37,1,1,64.37,11-Feb-41,11-Feb-41,Lite,Motor,Flat,Desert,NA,Bde,
+274,WW II East Africa,"ditto, to Bulo Erillo",14.0,22.53,1,1,22.53,12-Feb-41,12-Feb-41,Med,Motor,Flat,Desert,NA,Bde,
+275,WW II East Africa,"ditto, at Bulo Erillo",0.0,0.00,6,6,0.00,13-Feb-41,18-Feb-41,Lite,Motor,Flat,Desert,NA,Bde,
+276,WW II East Africa,"ditto, to Mabungo bridgehead, Juba R.",27.1,43.61,1,1,43.61,19-Feb-41,19-Feb-41,Lite,Motor,Flat,Desert,NA,Bde,
+277,WW II East Africa,"ditto, at Mabungo bridgehead, Juba R.",0.0,0.00,1,1,0.00,20-Feb-41,20-Feb-41,Hvy,Motor,Flat,Desert,NA,Bde,
+278,WW II East Africa,"ditto, to Gelib",42.2,67.91,2,2,33.96,21-Feb-41,22-Feb-41,Med,Motor,Rolling,Desert,NA,Bde,
+279,WW II East Africa,Total,123.3,198.43,12,12,16.54,11-Feb-41,22-Feb-41,Lite,Motor,Flat,Desert,NA,Bde,
+280,WW II East Africa,"1st So African Bde, Afmadu to Eyadera",59.6,95.92,1,1,95.92,13-Feb-41,13-Feb-41,Lite,Motor,Flat,Desert,NA,Bde,
+281,WW II East Africa,"ditto, to Gobwen",10.0,16.09,1,1,16.09,14-Feb-41,14-Feb-41,Med,Motor,Flat,Desert,NA,Bde,
+282,WW II East Africa,"ditto, at Gobwen",0.0,0.00,2,2,0.00,15-Feb-41,16-Feb-41,Lite,Motor,Flat,Desert,NA,Bde,
+283,WW II East Africa,"ditto, to Ionte bridgehead, Juba R.",14.0,22.53,1,1,22.53,17-Feb-41,17-Feb-41,Lite,Motor,Flat,Desert,NA,Bde,
+284,WW II East Africa,"ditto, at Ionte bridgehead, Juba R.",0.0,0.00,3,3,0.00,18-Feb-41,20-Feb-41,Hvy,Motor,Flat,Desert,NA,Bde,
+285,WW II East Africa,"ditto, to Margherita",23.0,37.01,1,1,37.01,21-Feb-41,21-Feb-41,Lite,Motor,Rolling,Desert,NA,Bde,
+286,WW II East Africa,"ditto, to Gelib",30.8,49.57,1,1,49.57,22-Feb-41,22-Feb-41,Med,Motor,Rolling,Desert,NA,Bde,
+287,WW II East Africa,Total,137.4,221.12,10,10,22.11,13-Feb-41,22-Feb-41,Lite,Motor,Rolling,Desert,NA,Bde,
+288,WW II East Africa,"23rd Nigerian Bde, Gelib to Modun",101.9,163.99,1,1,163.99,23-Feb-41,23-Feb-41,Lite,Motor,Rolling,Desert,NA,Bde,
+289,WW II East Africa,"ditto, to Golvin",86.4,139.05,1,1,139.05,24-Feb-41,24-Feb-41,Lite,Motor,Rolling,Desert,NA,Bde,
+290,WW II East Africa,"ditto, to Mogadishu",85.1,136.96,1,1,136.96,25-Feb-41,25-Feb-41,Lite,Motor,Rolling,Desert,NA,Bde,
+291,WW II East Africa,Total,273.4,439.99,3,3,146.66,23-Feb-41,25-Feb-41,Lite,Motor,NA,Desert,NA,Bde,
+292,WW II East Africa,"b. Race North to Jijiga, 28 Feb - 17 Mar 1941",,,,,,,,,,,,,,"Conquest of Somaliland, Feb-Apr 1941"
+293,WW II East Africa,"11th African Div, Mogadishu to Villag. Abruzzi",50.0,80.47,1,1,80.47,28-Feb-41,28-Feb-41,Lite,Motor,Rolling,Desert,NA,Div,
+294,WW II East Africa,"ditto, at Villagio Abruzzi",0.0,0.00,1,1,0.00,01-Mar-41,01-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+295,WW II East Africa,"ditto, to Bulo Burti",84.2,135.51,1,1,135.51,02-Mar-41,02-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+296,WW II East Africa,"ditto, to Ferfer",98.2,158.04,1,1,158.04,03-Mar-41,03-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+297,WW II East Africa,"ditto, at Ferfer",0.0,0.00,2,2,0.00,04-Mar-41,05-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+298,WW II East Africa,"ditto, to Scillare",87.0,140.01,1,1,140.01,06-Mar-41,06-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+299,WW II East Africa,"ditto, to Gabradarre",65.2,104.93,1,1,104.93,07-Mar-41,07-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+300,WW II East Africa,"ditto, at Gabradarre",0.0,0.00,1,1,0.00,08-Mar-41,08-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+301,WW II East Africa,"ditto, to Daghabur",147.9,238.02,2,2,119.01,09-Mar-41,10-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+302,WW II East Africa,"ditto, at Daghabur",0.0,0.00,6,6,0.00,11-Mar-41,16-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+303,WW II East Africa,"ditto, to Jijiga",106.3,171.07,1,1,171.07,17-Mar-41,17-Mar-41,Lite,Motor,Rolling,Desert,NA,Div,
+304,WW II East Africa,Total,638.8,1028.05,18,18,57.11,28-Feb-41,17-Mar-41,Lite,Motor,NA,Desert,NA,Div,
+305,WW II East Africa,"c. To Addis Abbaba, 21 Mar-6 Apr 1941",,,,,,,,,,,,,,"Conquest of Somaliland, Feb-Apr 1941"
+306,WW II East Africa,"11th African Div, Jijiga(?) to Marda Pass",2.0,3.22,1,1,3.22,21-Mar-41,21-Mar-41,Hvy,Motor,Mountain,NA,NA,Div,
+307,WW II East Africa,"ditto, to Tug Fafan",18.0,28.97,1,1,28.97,22-Mar-41,22-Mar-41,Lite,Motor,Mountain,NA,NA,Div,
+308,WW II East Africa,"ditto, to Babile Gap",29.7,47.80,1,1,47.80,23-Mar-41,23-Mar-41,Lite,Motor,Mountain,NA,NA,Div,
+309,WW II East Africa,"ditto, to River Bisidimo",5.2,8.37,1,1,8.37,24-Mar-41,24-Mar-41,Lite,Motor,Mountain,NA,NA,Div,
+310,WW II East Africa,"ditto, at River Bisidimo",0.0,0.00,1,1,0.00,25-Mar-41,25-Mar-41,Lite,Motor,Mountain,NA,NA,Div,
+311,WW II East Africa,"ditto, to Harar",10.3,16.58,1,1,16.58,26-Mar-41,26-Mar-41,Lite,Motor,Mountain,NA,NA,Div,
+312,WW II East Africa,"ditto, to Asta Littorio",111.2,178.96,6,6,29.83,27-Mar-41,01-Apr-41,Lite,Motor,Mountain,NA,NA,Div,
+313,WW II East Africa,"ditto, to Awash",61.5,98.97,2,2,49.49,02-Apr-41,03-Apr-41,Lite,Motor,Mountain,NA,NA,Div,
+314,WW II East Africa,"ditto, at Awash",0.0,0.00,1,1,0.00,04-Apr-41,04-Apr-41,Lite,Motor,Mountain,NA,NA,Div,
+315,WW II East Africa,"ditto, to Acachi",129.2,207.93,1,1,207.93,05-Apr-41,05-Apr-41,Lite,Motor,Mountain,NA,NA,Div,
+316,WW II East Africa,"ditto, to Addis Abbaba",10.0,16.09,1,1,16.09,06-Apr-41,06-Apr-41,Lite,Motor,Mountain,NA,NA,Div,
+317,WW II East Africa,Total,377.1,606.88,17,17,35.70,21-Mar-41,06-Apr-41,Lite,Motor,NA,NA,NA,Div,

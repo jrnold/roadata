@@ -1,0 +1,28 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,notes,comments
+1,Spartans,Sparta to Marathon,150,241.40,3,3,80.47,490 BC,490 BC,NA,Foot,NA,NA,NA,"2,000",Infantry,
+2,Ten Thousand Greeks,Myriandrus to Thapsacus,230,370.15,12,12,30.85,401 BC,401 BC,NA,Foot,NA,NA,NA,"10,000",Infantry,
+3,Ten Thousand Greeks,Upcountry March (Anabasis),4000,6437.38,215,215,29.94,400 BC,400 BC,NA,Foot,NA,NA,NA,"6,000",Infantry,
+4,Macedonians,One-day Drill Marches,30,48.28,1,1,48.28,350 BC,350 BC,NA,NA,NA,NA,NA,NA,All Arms,30 miles/day
+5,Macedonians,Pelium to Thebes,300,482.80,14,14,34.49,335 BC,335 BC,NA,Foot,Mountain,NA,NA,"33,000",All Arms,Mountain road
+6,Macedonians,Pella to Sestos,350,563.27,20,20,28.16,334 BC,334 BC,NA,Foot,NA,NA,NA,"35,000",All Arms,
+7,Macedonians,Phoenicia to Thapsacus,200 +,321.87 +,11,11,29.26,+331 BC,331 BC,NA,Foot,NA,NA,NA,"50,000",All Arms,
+8,Macedonians,Pursuit at Arbela,70,112.65,1,1,112.65,331 BC,331 BC,NA,Foot,NA,NA,NA,"5,000",All Arms,
+9,Macedonians,Uxians to Persian Gates,113,181.86,5,5,36.37,331 BC,331 BC,NA,Foot,Mountain,NA,NA,"15,000",All Arms,Bad mountain road
+10,Macedonians,Persian Gates to Araxes,40,64.37,0.5,0.5,128.75,331 BC,331 BC,NA,Horse,NA,NA,NA,"4,000",Cavalry,
+11,Macedonians,Ecbatana to Rhagae,220 +,354.06 +,11,11,32.19,+330 BC,330 BC,NA,Foot,NA,NA,NA,"30,000",All Arms,"Hot, midsummer tropical weather"
+12,Macedonians,Pursuit of Darius,400,643.74,11,11,58.52,330 BC,330 BC,NA,Horse,NA,Desert,Sandy,"3,000 +",Cavalry,"Hot, sandy road, part desert"
+13,Macedonians,Pursuit of Darius,175,281.64,4,4,70.41,330 BC,330 BC,NA,Horse,NA,Desert,Sandy,"3,000",Cavalry,"Hot, sandy road, part desert"
+14,Macedonians,Pursuit of Darius,47,75.64,0.5,0.5,151.28,330 BC,330 BC,NA,Horse,NA,Desert,NA,500,Cavalry,See Note
+15,Macedonians,Hecatompylos to Aria,500 +,804.67 +,20,20,40.23,+330 BC,330 BC,NA,Foot,NA,NA,NA,"23,000",All Arms,
+16,Macedonians,To Artacoana,75,120.70,2,2,60.35,330 BC,330 BC,NA,Foot,NA,NA,NA,"6,000 +",All Arms,
+17,Macedonians,Capture of Bessus,150,241.40,4,4,60.35,329 BC,329 BC,NA,Foot,NA,NA,NA,"6,000",All Arms,Ptolemy's march
+18,Macedonians,Jaxartes to Maracanda,170,273.59,3.5,3.5,78.17,329 BC,329 BC,NA,Foot,NA,NA,NA,"15,000",All Arms,
+19,Macedonians,Desert of Sandar,57,91.73,1,1,91.73,325 BC,325 BC,NA,Foot,NA,Desert,NA,"20,000 +",All Arms,Desert
+20,Romans,Lilybeum to Ariminum,650,1046.07,40,40,26.15,218 BC,218 BC,NA,Foot,NA,NA,NA,"20,000",All Arms,
+21,Romans,Canusium to the Sena & Back,500,804.67,14,14,57.48,207 BC,207 BC,NA,Foot,NA,NA,NA,"7,000",All Arms,13 marching days; 1 day of battle
+22,Romans,Vesontio to Axona,145,233.35,15,15,15.56,57 BC,57 BC,NA,Foot,NA,NA,NA,"60,000",All Arms,
+23,Romans,Samarobriva to relieve Cicero,110,177.03,5,5,35.41,54 BC,54 BC,NA,Foot,NA,NA,NA,"8,000",All Arms,Winter roads
+24,Romans,Gergovia to Aeduan army & back,50,80.47,1,1,80.47,52 BC,52 BC,NA,Foot,NA,NA,NA,"16,000",All Arms,
+25,Romans,Corfinium to Brundisium,290,466.71,17,17,27.45,49 BC,49 BC,NA,Foot,NA,NA,NA,"25,000",All Arms,
+26,Romans,Asparagium to Dyrrachium,45,72.42,1.1,1.1,65.84,48 BC,48 BC,NA,Foot,NA,NA,NA,"21,000",All Arms,
+27,Romans,Zeta Raid,36,57.94,0.667,0.667,86.90,46 BC,46 BC,NA,Foot,NA,NA,NA,"15,000",All Arms,

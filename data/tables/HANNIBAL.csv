@@ -1,0 +1,5 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days_1,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,comments
+1,Romans,NA,15,24.14,1,1,24.14,200 BC,200 BC,NA,Foot,NA,NA,NA,NA,Typical Roman rate of march
+2,Consul Sempronius,Lilybaeum to Ariminum,650,1046.07,40,40,26.15,218 BC,218 BC,NA,Foot,NA,NA,NA,20000,
+3,Consul Nero,Canusium to Sena,250,402.34,7,7,57.48,207 BC,207 BC,NA,Foot,NA,NA,NA,7000,
+4,Consul Nero,Sena to Canusium,250,402.34,6,6,67.06,207 BC,207 BC,NA,Foot,NA,NA,NA,7000,See Note 1

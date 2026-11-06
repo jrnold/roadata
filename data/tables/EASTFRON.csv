@@ -1,0 +1,213 @@
+no,operation_name_phase,route_locale_sector_or_other_information,distance_miles,distance_km,time_days_1,time_days_2,rate_km_day,start_date_1,end_date_2,opp_n_intens,mode_of_movement,topography,vegetation,footing,force_size,notes,comments
+1,Defense of Moscow,9th Field Army,N/U,140,N/U,14,10.00,02-Oct-41,15-Oct-41,,,,,,Army,pg 45,
+2,Defense of Moscow,9th Field Army,N/U,80,N/U,15,5.33,16-Oct-41,30-Oct-41,,,,,,Army,,
+3,Defense of Moscow,3rd Panzer Group,N/U,120,N/U,9,13.33,02-Oct-41,10-Oct-41,,,,,,Army,,
+4,Defense of Moscow,3rd Panzer Group,N/U,150,N/U,5,30.00,11-Oct-41,15-Oct-41,,,,,,Army,,
+5,Defense of Moscow,3rd Panzer Group,N/U,90,N/U,14,6.43,16-Nov-41,29-Nov-41,,,,,,Army,,
+6,Defense of Moscow,4th Field Army,N/U,200,N/U,14,14.29,02-Oct-41,15-Oct-41,,,,,,Army,,
+7,Defense of Moscow,4th Field Army,N/U,60,N/U,15,4.00,16-Oct-41,30-Oct-41,,,,,,Army,,
+8,Defense of Moscow,4th Panzer Group,N/U,120,N/U,4,30.00,02-Oct-41,05-Oct-41,,,,,,Army,,
+9,Defense of Moscow,4th Panzer Group,N/U,120,N/U,10,12.00,06-Oct-41,15-Oct-41,,,,,,Army,,
+10,Defense of Moscow,4th Panzer Group,N/U,30,N/U,10,3.00,17-Oct-41,26-Oct-41,,,,,,Army,,
+11,Defense of Moscow,4th Panzer Group,N/U,60,N/U,13,4.62,16-Nov-41,28-Nov-41,,,,,,Army,,
+12,Defense of Moscow,2nd Field Army,N/U,180,N/U,16,11.25,30-Sep-41,15-Oct-41,,,,,,Army,,
+13,Defense of Moscow,2nd Field Army,N/U,80,N/U,15,5.33,16-Oct-41,30-Oct-41,,,,,,Army,,
+14,Defense of Moscow,2nd Field Army,N/U,90,N/U,20,4.50,16-Nov-41,05-Dec-41,,,,,,Army,,
+15,Defense of Moscow,2nd Panzer Group,N/U,180,N/U,3,60.00,30-Sep-41,02-Oct-41,,,,,,Army,Named 2nd Pz Army on 6 Oct 41,
+16,Defense of Moscow,2nd Panzer Group,N/U,20,NA,3,6.67,03-Oct-41,05-Oct-41,,,,,,Army,,
+17,Defense of Moscow,2nd Panzer Group,N/U,120,N/U,15,8.00,16-Oct-41,30-Oct-41,,,,,,Army,,
+18,Defense of Moscow,2nd Panzer Group,N/U,90,N/U,18,5.00,18-Nov-41,05-Dec-41,,,,,,Army,,
+19,Soviet Counteroffensive,Kalinin Army Group,N/U,12,N/U,12,1.00,05-Dec-41,16-Dec-41,,,,,,A Grp,pg 58,
+20,Soviet Counteroffensive,Kalinin Army Group,N/U,45,N/U,9,5.00,17-Dec-41,25-Dec-41,,,,,,A Grp,,
+21,Soviet Counteroffensive,Kalinin Army Group,N/U,45,N/U,14,3.21,26-Dec-41,08-Jan-42,,,,,,A Grp,,
+22,Soviet Counteroffensive,Western Army Grp Rght Wing,N/U,65,N/U,11,5.91,06-Dec-41,16-Dec-41,,,,,,A Grp,,
+23,Soviet Counteroffensive,Western Army Grp Rght Wing,N/U,45,N/U,9,5.00,17-Dec-41,25-Dec-41,,,,,,A Grp,,
+24,Soviet Counteroffensive,Western Army Grp Left Wing,N/U,100,N/U,11,9.09,06-Dec-41,16-Dec-41,,,,,,A Grp,,
+25,Soviet Counteroffensive,Western Army Grp Left Wing,N/U,90,N/U,8,11.25,17-Dec-41,24-Dec-41,,,,,,A Grp,,
+26,Soviet Counteroffensive,Western Army Grp Left Wing,N/U,110,N/U,15,7.33,25-Dec-41,08-Jan-42,,,,,,A Grp,,
+27,Soviet Counteroffensive,Western Army Grp Center,N/U,20,N/U,7,2.86,18-Dec-41,24-Dec-41,,,,,,A Grp,,
+28,Soviet Counteroffensive,Western Army Grp Center,N/U,40,N/U,15,2.67,25-Dec-41,08-Jan-42,,,,,,A Grp,,
+29,Soviet Counteroffensive,Southwest Army Grp Rt Wing,N/U,60,N/U,11,5.45,06-Dec-41,16-Dec-41,,,,,,A Grp,,
+30,Soviet Counteroffensive,Southwest Army Grp Rt Wing,N/U,25,N/U,8,3.13,17-Dec-41,24-Dec-41,,,,,,A Grp,,
+31,Soviet Counteroffensive,Southwest Army Grp Rt Wing,N/U,25,N/U,15,1.67,25-Dec-41,08-Jan-42,,,,,,A Grp,,
+32,Citadel (Kursk),Central Army Grp Sector,N/U,4.5,N/U,1,4.50,05-Jul-43,05-Jul-43,,,,,,A Grp,pg 89,Avg Ger advance/day
+33,Citadel (Kursk),Central Army Grp Sector,N/U,3.5,N/U,1,3.50,06-Jul-43,06-Jul-43,,,,,,A Grp,,""""
+34,Citadel (Kursk),Central Army Grp Sector,N/U,1.5,N/U,1,1.50,07-Jul-43,07-Jul-43,,,,,,A Grp,,""""
+35,Citadel (Kursk),Central Army Grp Sector,N/U,0.75,N/U,1,0.75,08-Jul-43,08-Jul-43,,,,,,A Grp,,""""
+36,Citadel (Kursk),Central Army Grp Sector,N/U,0.4,N/U,1,0.40,09-Jul-43,09-Jul-43,,,,,,A Grp,,""""
+37,Citadel (Kursk),Voronezh Army Grp Sector,N/U,8,N/U,1,8.00,05-Jul-43,05-Jul-43,,,,,,A Grp,,""""
+38,Citadel (Kursk),Voronezh Army Grp Sector,N/U,5.5,N/U,1,5.50,06-Jul-43,06-Jul-43,,,,,,A Grp,,""""
+39,Citadel (Kursk),Voronezh Army Grp Sector,N/U,6,N/U,1,6.00,07-Jul-43,07-Jul-43,,,,,,A Grp,,""""
+40,Citadel (Kursk),Voronezh Army Grp Sector,N/U,4,N/U,1,4.00,08-Jul-43,08-Jul-43,,,,,,A Grp,,""""
+41,Citadel (Kursk),Voronezh Army Grp Sector,N/U,1.5,N/U,1,1.50,09-Jul-43,09-Jul-43,,,,,,A Grp,,""""
+42,Citadel (Kursk),Voronezh Army Grp Sector,N/U,2,N/U,1,2.00,10-Jul-43,10-Jul-43,,,,,,A Grp,,""""
+43,Citadel (Kursk),Voronezh Army Grp Sector,N/U,2.5,N/U,1,2.50,11-Jul-43,11-Jul-43,,,,,,A Grp,,""""
+44,Citadel (Kursk),Voronezh Army Grp Sector,N/U,0,N/U,1,0.00,12-Jul-43,12-Jul-43,,,,,,A Grp,,""""
+45,Melitopol Breakthrough,3rd Guards Army,N/U,5,N/U,6,0.83,26-Sep-43,01-Oct-43,,,,,,Army,pg 128,
+46,Melitopol Breakthrough,5th Strike Army,N/U,12,N/U,31,0.39,26-Sep-43,26-Oct-43,,,,,,Army,,
+47,Melitopol Breakthrough,44th Comb Arms Army,N/U,18,N/U,31,0.58,26-Sep-43,26-Oct-43,,,,,,Army,,
+48,Melitopol Breakthrough,2nd Guards Army,N/U,17,N/U,31,0.55,26-Sep-43,26-Oct-43,,,,,,Army,,
+49,Melitopol Breakthrough,28th Comb Arms Army,N/U,17,N/U,30,0.57,27-Sep-43,26-Oct-43,,,,,,Army,,
+50,Melitopol Breakthrough,51st Comb Arms Army,N/U,42,N/U,14,3.00,13-Oct-43,26-Oct-43,,,,,,Army,,
+51,Melitopol Pursuit,3rd Guards Army,N/U,65,N/U,5,13.00,27-Oct-43,31-Oct-43,,,,,,Army,,
+52,Melitopol Pursuit,5th Strike Army,N/U,130,N/U,6,21.67,27-Oct-43,01-Nov-43,,,,,,Army,,
+53,Melitopol Pursuit,2nd Guards Army,N/U,303,N/U,10,30.30,27-Oct-43,05-Nov-43,,,,,,Army,,
+54,Melitopol Pursuit,28th Comb Arms Army,N/U,95,N/U,6,15.83,27-Oct-43,01-Nov-43,,,,,,Army,,
+55,Melitopol Pursuit,51st Comb Arms Army,N/U,130,N/U,6,21.67,27-Oct-43,01-Nov-43,,,,,,Army,,
+56,Melitopol Pursuit,Mecz Cav Groups,N/U,250,N/U,7,35.71,30-Oct-43,05-Nov-43,,,,,,Army,,
+57,Crimean Operation,4th Ukrainian Army Grp,N/U,200,N/U,35,5.71,08-Apr-44,12-May-44,,,,,,A Grp,pg 148,
+58,Crimean Operation,Indep. Maritime Army,N/U,260,N/U,35,7.43,08-Apr-44,12-May-44,,,,,,Army,,
+59,Byelorussian Offensive,1st Baltic Army Grp,N/U,80,N/U,6,13.33,23-Jun-44,28-Jun-44,,,,,,A Grp,pg 163,
+60,Byelorussian Offensive,1st Baltic Army Grp,N/U,120,N/U,6,20.00,29-Jun-44,04-Jul-44,,,,,,A Grp,,
+61,Byelorussian Offensive,1st Baltic Army Grp,N/U,120,N/U,12,10.00,05-Jul-44,16-Jul-44,,,,,,A Grp,,
+62,Byelorussian Offensive,1st Baltic Army Grp,N/U,190,N/U,15,12.67,17-Jul-44,31-Jul-44,,,,,,A Grp,,
+63,Byelorussian Offensive,1st Baltic Army Grp,N/U,30,N/U,28,1.07,01-Aug-44,28-Aug-44,,,,,,A Grp,,
+64,Byelorussian Offensive,3rd Byelorussian Army Grp,N/U,130,N/U,6,21.67,23-Jun-44,28-Jun-44,,,,,,A Grp,,
+65,Byelorussian Offensive,3rd Byelorussian Army Grp,N/U,130,N/U,6,21.67,29-Jun-44,04-Jul-44,,,,,,A Grp,,
+66,Byelorussian Offensive,3rd Byelorussian Army Grp,N/U,190,N/U,12,15.83,05-Jul-44,16-Jul-44,,,,,,A Grp,,
+67,Byelorussian Offensive,3rd Byelorussian Army Grp,N/U,60,N/U,15,4.00,17-Jul-44,31-Jul-44,,,,,,A Grp,,
+68,Byelorussian Offensive,3rd Byelorussian Army Grp,N/U,40,N/U,28,1.43,01-Aug-44,28-Aug-44,,,,,,A Grp,,
+69,Byelorussian Offensive,2nd Byelorussian Army Grp,N/U,80,N/U,6,13.33,23-Jun-44,28-Jun-44,,,,,,A Grp,,
+70,Byelorussian Offensive,2nd Byelorussian Army Grp,N/U,110,N/U,6,18.33,29-Jun-44,04-Jul-44,,,,,,A Grp,,
+71,Byelorussian Offensive,2nd Byelorussian Army Grp,N/U,200,N/U,12,16.67,05-Jul-44,16-Jul-44,,,,,,A Grp,,
+72,Byelorussian Offensive,2nd Byelorussian Army Grp,N/U,90,N/U,15,6.00,17-Jul-44,31-Jul-44,,,,,,A Grp,,
+73,Byelorussian Offensive,2nd Byelorussian Army Grp,N/U,90,N/U,28,3.21,01-Aug-44,28-Aug-44,,,,,,A Grp,,
+74,Byelorussian Offensive,1st Byelorussian Army Grp,N/U,110,N/U,6,18.33,23-Jun-44,28-Jun-44,,,,,,A Grp,,Right Wing Only
+75,Byelorussian Offensive,1st Byelorussian Army Grp,N/U,100,N/U,6,16.67,29-Jun-44,04-Jul-44,,,,,,A Grp,,""""
+76,Byelorussian Offensive,1st Byelorussian Army Grp,N/U,170,N/U,12,14.17,05-Jul-44,16-Jul-44,,,,,,A Grp,,""""
+77,Byelorussian Offensive,1st Byelorussian Army Grp,N/U,110,N/U,15,7.33,17-Jul-44,31-Jul-44,,,,,,A Grp,,""""
+78,Byelorussian Offensive,1st Byelorussian Army Grp,N/U,100,N/U,28,3.57,01-Aug-44,28-Aug-44,,,,,,A Grp,,""""
+79,Byelorussian Offensive,1st Byelorussian Army Grp,N/U,230,N/U,11,20.91,18-Jul-44,28-Jul-44,,,,,,A Grp,,Left Wing Only
+80,Lvov-Sandomierz Offense,3rd Guards Comb Arms Army,N/U,45,N/U,6,7.50,13-Jul-44,18-Jul-44,,,,,,Army,pg 182,Breakthrough:
+81,Lvov-Sandomierz Offense,3rd Guards Comb Arms Army,N/U,158,N/U,9,17.56,19-Jul-44,27-Jul-44,,,,,,Army,,13-18 Jul 44
+82,Lvov-Sandomierz Offense,3rd Guards Comb Arms Army,N/U,33,N/U,6,5.50,29-Jul-44,03-Aug-44,,,,,,Army,,Exploit/Pursuit:
+83,Lvov-Sandomierz Offense,3rd Guards Comb Arms Army,N/U,26,N/U,26,1.00,04-Aug-44,29-Aug-44,,,,,,Army,,19-27 Jul 44
+84,Lvov-Sandomierz Offense,13th Comb Arms Army,N/U,60,N/U,6,10.00,13-Jul-44,18-Jul-44,,,,,,Army,,Adv. to Vistula:
+85,Lvov-Sandomierz Offense,13th Comb Arms Army,N/U,195,N/U,9,21.67,19-Jul-44,27-Jul-44,,,,,,Army,,29-3 Aug 44
+86,Lvov-Sandomierz Offense,13th Comb Arms Army,N/U,63,N/U,6,10.50,29-Jul-44,03-Aug-44,,,,,,Army,,Consolidation:
+87,Lvov-Sandomierz Offense,13th Comb Arms Army,N/U,26,N/U,26,1.00,04-Aug-44,29-Aug-44,,,,,,Army,,4-29 Aug 44
+88,Lvov-Sandomierz Offense,60th Comb Arms Army,N/U,45,N/U,6,7.50,13-Jul-44,18-Jul-44,,,,,,Army,,
+89,Lvov-Sandomierz Offense,60th Comb Arms Army,N/U,75,N/U,9,8.33,19-Jul-44,27-Jul-44,,,,,,Army,,
+90,Lvov-Sandomierz Offense,60th Comb Arms Army,N/U,160,N/U,13,12.31,29-Jul-44,10-Aug-44,,,,,,Army,,
+91,Lvov-Sandomierz Offense,60th Comb Arms Army,N/U,23,N/U,19,1.21,11-Aug-44,29-Aug-44,,,,,,Army,,
+92,Lvov-Sandomierz Offense,38th Comb Arms Army,N/U,15,N/U,6,2.50,13-Jul-44,18-Jul-44,,,,,,Army,,
+93,Lvov-Sandomierz Offense,38th Comb Arms Army,N/U,85,N/U,9,9.44,19-Jul-44,27-Jul-44,,,,,,Army,,
+94,Lvov-Sandomierz Offense,38th Comb Arms Army,N/U,70,N/U,6,11.67,29-Jul-44,03-Aug-44,,,,,,Army,,
+95,Lvov-Sandomierz Offense,38th Comb Arms Army,N/U,26,N/U,26,1.00,04-Aug-44,29-Aug-44,,,,,,Army,,
+96,Lvov-Sandomierz Offense,1st Guards Comb Arms Army,N/U,95,N/U,9,10.56,19-Jul-44,27-Jul-44,,,,,,Army,,
+97,Lvov-Sandomierz Offense,1st Guards Comb Arms Army,N/U,13,N/U,6,2.17,29-Jul-44,03-Aug-44,,,,,,Army,,
+98,Lvov-Sandomierz Offense,18th Comb Arms Army,N/U,108,N/U,9,12.00,19-Jul-44,27-Jul-44,,,,,,Army,,
+99,Lvov-Sandomierz Offense,18th Comb Arms Army,N/U,14,N/U,6,2.33,29-Jul-44,03-Aug-44,,,,,,Army,,
+100,Lvov-Sandomierz Offense,5th Guards Comb Arms Army,N/U,60,N/U,7,8.57,04-Aug-44,10-Aug-44,,,,,,Army,,
+101,Lvov-Sandomierz Offense,1st Guards Tank Army,N/U,380,N/U,9,42.22,19-Jul-44,27-Jul-44,,,,,,Army,,
+102,Lvov-Sandomierz Offense,1st Guards Tank Army,N/U,63,N/U,6,10.50,29-Jul-44,03-Aug-44,,,,,,Army,,
+103,Lvov-Sandomierz Offense,1st Guards Tank Army,N/U,39,N/U,26,1.50,04-Aug-44,29-Aug-44,,,,,,Army,,
+104,Lvov-Sandomierz Offense,3rd Guards Tank Army,N/U,270,N/U,9,30.00,19-Jul-44,27-Jul-44,,,,,,Army,,
+105,Lvov-Sandomierz Offense,3rd Guards Tank Army,N/U,75,N/U,6,12.50,29-Jul-44,03-Aug-44,,,,,,Army,,
+106,Lvov-Sandomierz Offense,3rd Guards Tank Army,N/U,39,N/U,26,1.50,04-Aug-44,29-Aug-44,,,,,,Army,,
+107,Lvov-Sandomierz Offense,4th Tank Army,N/U,180,N/U,9,20.00,19-Jul-44,27-Jul-44,,,,,,Army,,
+108,Lvov-Sandomierz Offense,4th Tank Army,N/U,80,N/U,6,13.33,29-Jul-44,03-Aug-44,,,,,,Army,,
+109,Lvov-Sandomierz Offense,4th Tank Army,N/U,39,N/U,26,1.50,04-Aug-44,29-Aug-44,,,,,,Army,,
+110,Lvov-Sandomierz Offense,Cav-Mech Group 1,N/U,270,N/U,9,30.00,19-Jul-44,27-Jul-44,,,,,,Army,,
+111,Lvov-Sandomierz Offense,Cav-Mech Group 2,N/U,110,N/U,5,22.00,23-Jul-44,27-Jul-44,,,,,,Army,,
+112,Yassy-Kisinev Operation,2nd Ukrainian Army Grp,N/U,135,N/U,5,27.00,20-Aug-44,24-Aug-44,,,,,,A Grp,pg 191,
+113,Yassy-Kisinev Operation,2nd Ukrainian Army Grp,N/U,190,N/U,5,38.00,25-Aug-44,29-Aug-44,,,,,,A Grp,,
+114,Yassy-Kisinev Operation,3rd Ukrainian Army Grp,N/U,135,N/U,5,27.00,20-Aug-44,24-Aug-44,,,,,,A Grp,,
+115,Yassy-Kisinev Operation,3rd Ukrainian Army Grp,N/U,165,N/U,5,33.00,25-Aug-44,29-Aug-44,,,,,,A Grp,,
+116,Battle for East Prussia,3rd Byelorussian Army Grp,N/U,25,N/U,6,4.17,13-Jan-45,18-Jan-45,,,,,,A Grp,pg 203,Breakthrough
+117,Battle for East Prussia,3rd Byelorussian Army Grp,N/U,90,N/U,8,11.25,19-Jan-45,26-Jan-45,,,,,,Army,Exploit,Comb Arms Armies
+118,Battle for East Prussia,3rd Byelorussian Army Grp,N/U,110,N/U,8,13.75,19-Jan-45,26-Jan-45,,,,,,Army,"""",Mobile Troops
+119,Battle for East Prussia,2nd Byelorussian Army Grp,N/U,55,N/U,6,9.17,13-Jan-45,18-Jan-45,,,,,,A Grp,pg 203,Breakthrough
+120,Battle for East Prussia,2nd Byelorussian Army Grp,N/U,150,N/U,8,18.75,19-Jan-45,26-Jan-45,,,,,,Army,Exploit,Comb Arms Armies
+121,Battle for East Prussia,2nd Byelorussian Army Grp,N/U,210,N/U,8,26.25,19-Jan-45,26-Jan-45,,,,,,Army,"""",Mobile Troops
+122,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,15,N/U,1,15.00,14-Jan-45,14-Jan-45,,,,,,A Grp,pg 217,Comb Arms Armies
+123,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,19.5,N/U,1,19.50,15-Jan-45,15-Jan-45,,,,,,A Grp,,""""
+124,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,17.5,N/U,1,17.50,16-Jan-45,16-Jan-45,,,,,,A Grp,,""""
+125,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,30,N/U,1,30.00,17-Jan-45,17-Jan-45,,,,,,A Grp,,""""
+126,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,25,N/U,1,25.00,18-Jan-45,18-Jan-45,,,,,,A Grp,,""""
+127,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,27.5,N/U,1,27.50,19-Jan-45,19-Jan-45,,,,,,A Grp,,""""
+128,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,30,N/U,1,30.00,20-Jan-45,20-Jan-45,,,,,,A Grp,,""""
+129,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,30,N/U,1,30.00,21-Jan-45,21-Jan-45,,,,,,A Grp,,""""
+130,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,32.5,N/U,1,32.50,22-Jan-45,22-Jan-45,,,,,,A Grp,,""""
+131,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,35,N/U,1,35.00,23-Jan-45,23-Jan-45,,,,,,A Grp,,""""
+132,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,32.5,N/U,1,32.50,24-Jan-45,24-Jan-45,,,,,,A Grp,,""""
+133,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,27.5,N/U,1,27.50,25-Jan-45,25-Jan-45,,,,,,A Grp,,""""
+134,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,25,N/U,1,25.00,26-Jan-45,26-Jan-45,,,,,,A Grp,,""""
+135,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,27.5,N/U,1,27.50,27-Jan-45,27-Jan-45,,,,,,A Grp,,""""
+136,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,27.5,N/U,1,27.50,28-Jan-45,28-Jan-45,,,,,,A Grp,,""""
+137,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,10,N/U,1,10.00,29-Jan-45,29-Jan-45,,,,,,A Grp,,""""
+138,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,20,N/U,1,20.00,30-Jan-45,30-Jan-45,,,,,,A Grp,,""""
+139,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,32.5,N/U,1,32.50,31-Jan-45,31-Jan-45,,,,,,A Grp,,""""
+140,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,17.5,N/U,1,17.50,01-Feb-45,01-Feb-45,,,,,,A Grp,,""""
+141,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,20,N/U,1,20.00,02-Feb-45,02-Feb-45,,,,,,A Grp,,""""
+142,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,15,N/U,1,15.00,03-Feb-45,03-Feb-45,,,,,,A Grp,,""""
+143,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,11,N/U,1,11.00,15-Jan-45,15-Jan-45,,,,,,A Grp,,Tank Armies
+144,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,50,N/U,1,50.00,16-Jan-45,16-Jan-45,,,,,,A Grp,,""""
+145,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,35,N/U,1,35.00,17-Jan-45,17-Jan-45,,,,,,A Grp,,""""
+146,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,40,N/U,1,40.00,18-Jan-45,18-Jan-45,,,,,,A Grp,,""""
+147,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,57.5,N/U,1,57.50,19-Jan-45,19-Jan-45,,,,,,A Grp,,""""
+148,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,32.5,N/U,1,32.50,20-Jan-45,20-Jan-45,,,,,,A Grp,,""""
+149,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,47.5,N/U,1,47.50,21-Jan-45,21-Jan-45,,,,,,A Grp,,""""
+150,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,50,N/U,1,50.00,22-Jan-45,22-Jan-45,,,,,,A Grp,,""""
+151,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,32.5,N/U,1,32.50,23-Jan-45,23-Jan-45,,,,,,A Grp,,""""
+152,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,25,N/U,1,25.00,24-Jan-45,24-Jan-45,,,,,,A Grp,,""""
+153,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,30,N/U,1,30.00,25-Jan-45,25-Jan-45,,,,,,A Grp,,""""
+154,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,21,N/U,1,21.00,26-Jan-45,26-Jan-45,,,,,,A Grp,,""""
+155,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,7.5,N/U,1,7.50,27-Jan-45,27-Jan-45,,,,,,A Grp,,""""
+156,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,12.5,N/U,1,12.50,28-Jan-45,28-Jan-45,,,,,,A Grp,,""""
+157,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,20,N/U,1,20.00,29-Jan-45,29-Jan-45,,,,,,A Grp,,""""
+158,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,30,N/U,1,30.00,30-Jan-45,30-Jan-45,,,,,,A Grp,,""""
+159,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,37.5,N/U,1,37.50,31-Jan-45,31-Jan-45,,,,,,A Grp,,""""
+160,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,20,N/U,1,20.00,01-Feb-45,01-Feb-45,,,,,,A Grp,,""""
+161,Vistula-Oder Offensive,1st Byelorussian Army Grp,N/U,20,N/U,1,20.00,02-Feb-45,02-Feb-45,,,,,,A Grp,,""""
+162,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,17.5,N/U,1,17.50,12-Jan-45,12-Jan-45,,,,,,A Grp,,Comb Army Armies
+163,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,19,N/U,1,19.00,13-Jan-45,13-Jan-45,,,,,,A Grp,,""""
+164,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,17.5,N/U,1,17.50,14-Jan-45,14-Jan-45,,,,,,A Grp,,""""
+165,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,18.5,N/U,1,18.50,15-Jan-45,15-Jan-45,,,,,,A Grp,,""""
+166,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,27.5,N/U,1,27.50,16-Jan-45,16-Jan-45,,,,,,A Grp,,""""
+167,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,35,N/U,1,35.00,17-Jan-45,17-Jan-45,,,,,,A Grp,,""""
+168,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,20,N/U,1,20.00,18-Jan-45,18-Jan-45,,,,,,A Grp,,""""
+169,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,23.5,N/U,1,23.50,19-Jan-45,19-Jan-45,,,,,,A Grp,,""""
+170,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,30,N/U,1,30.00,20-Jan-45,20-Jan-45,,,,,,A Grp,,""""
+171,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,31.5,N/U,1,31.50,21-Jan-45,21-Jan-45,,,,,,A Grp,,""""
+172,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,26,N/U,1,26.00,22-Jan-45,22-Jan-45,,,,,,A Grp,,""""
+173,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,24,N/U,1,24.00,23-Jan-45,23-Jan-45,,,,,,A Grp,,""""
+174,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,28.5,N/U,1,28.50,24-Jan-45,24-Jan-45,,,,,,A Grp,,""""
+175,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,27.5,N/U,1,27.50,25-Jan-45,25-Jan-45,,,,,,A Grp,,""""
+176,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,15,N/U,1,15.00,26-Jan-45,26-Jan-45,,,,,,A Grp,,""""
+177,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,14.5,N/U,1,14.50,27-Jan-45,27-Jan-45,,,,,,A Grp,,""""
+178,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,14,N/U,1,14.00,28-Jan-45,28-Jan-45,,,,,,A Grp,,""""
+179,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,11.5,N/U,1,11.50,29-Jan-45,29-Jan-45,,,,,,A Grp,,""""
+180,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,11,N/U,1,11.00,30-Jan-45,30-Jan-45,,,,,,A Grp,,""""
+181,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,4,N/U,1,4.00,31-Jan-45,31-Jan-45,,,,,,A Grp,,""""
+182,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,14.5,N/U,1,14.50,12-Jan-45,12-Jan-45,,,,,,A Grp,,Tank Armies
+183,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,12.5,N/U,1,12.50,13-Jan-45,13-Jan-45,,,,,,A Grp,,""""
+184,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,22.5,N/U,1,22.50,14-Jan-45,14-Jan-45,,,,,,A Grp,,""""
+185,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,27.5,N/U,1,27.50,15-Jan-45,15-Jan-45,,,,,,A Grp,,""""
+186,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,17.5,N/U,1,17.50,16-Jan-45,16-Jan-45,,,,,,A Grp,,""""
+187,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,20,N/U,1,20.00,17-Jan-45,17-Jan-45,,,,,,A Grp,,""""
+188,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,17.5,N/U,1,17.50,18-Jan-45,18-Jan-45,,,,,,A Grp,,""""
+189,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,37.5,N/U,1,37.50,19-Jan-45,19-Jan-45,,,,,,A Grp,,""""
+190,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,37.5,N/U,1,37.50,20-Jan-45,20-Jan-45,,,,,,A Grp,,""""
+191,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,27.5,N/U,1,27.50,21-Jan-45,21-Jan-45,,,,,,A Grp,,""""
+192,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,27.5,N/U,1,27.50,22-Jan-45,22-Jan-45,,,,,,A Grp,,""""
+193,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,40,N/U,1,40.00,23-Jan-45,23-Jan-45,,,,,,A Grp,,""""
+194,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,35,N/U,1,35.00,24-Jan-45,24-Jan-45,,,,,,A Grp,,""""
+195,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,32.5,N/U,1,32.50,25-Jan-45,25-Jan-45,,,,,,A Grp,,""""
+196,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,30,N/U,1,30.00,26-Jan-45,26-Jan-45,,,,,,A Grp,,""""
+197,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,18.5,N/U,1,18.50,27-Jan-45,27-Jan-45,,,,,,A Grp,,""""
+198,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,5,N/U,1,5.00,28-Jan-45,28-Jan-45,,,,,,A Grp,,""""
+199,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,4,N/U,1,4.00,29-Jan-45,29-Jan-45,,,,,,A Grp,,""""
+200,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,5,N/U,1,5.00,30-Jan-45,30-Jan-45,,,,,,A Grp,,""""
+201,Vistula-Oder Offensive,1st Ukrainian Army Grp,N/U,2.5,N/U,1,2.50,31-Jan-45,31-Jan-45,,,,,,A Grp,,""""
+202,Manchurian Campaign,6th Guards Tank Army,N/U,820,N/U,10,82.00,08-Aug-45,17-Aug-45,,,,,,Army,pg 246,
+203,Manchurian Campaign,39th Combined Arms Army,N/U,380,N/U,10,38.00,08-Aug-45,17-Aug-45,,,,,,Army,,
+204,Manchurian Campaign,17th Combined Arms Army,N/U,450,N/U,10,45.00,08-Aug-45,17-Aug-45,,,,,,Army,,
+205,Manchurian Campaign,36th Combined Arms Army,N/U,450,N/U,10,45.00,08-Aug-45,17-Aug-45,,,,,,Army,,
+206,Manchurian Campaign,Soviet-Mongol Cav-Mech Grp,N/U,485,N/U,10,48.50,08-Aug-45,17-Aug-45,,,,,,Army,,
+207,Manchurian Campaign,1st Red Banner CAA,N/U,300,N/U,10,30.00,08-Aug-45,17-Aug-45,,,,,,Army,,
+208,Manchurian Campaign,5th Combined Arms Army,N/U,300,N/U,10,30.00,08-Aug-45,17-Aug-45,,,,,,Army,,
+209,Manchurian Campaign,35 Combined Arms Army,N/U,250,N/U,10,25.00,08-Aug-45,17-Aug-45,,,,,,Army,,
+210,Manchurian Campaign,25th Combined Arms Army,N/U,200,N/U,10,20.00,08-Aug-45,17-Aug-45,,,,,,Army,,
+211,Manchurian Campaign,15th Combined Arms Army,N/U,300,N/U,10,30.00,08-Aug-45,17-Aug-45,,,,,,Army,,
+212,Manchurian Campaign,2nd Red Banner CAA,N/U,200,N/U,10,20.00,08-Aug-45,17-Aug-45,,,,,,Army,,
