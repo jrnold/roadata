@@ -172,3 +172,9 @@ The extraction scripts are not part of this repository.
 - **Source inconsistencies are kept**, not corrected: for example, day counts that disagree with
   the printed dates (DESANTIS rows 28-30, HULSE row 17, MISCROAD rows 22, 66, 69, 78 and 159) and
   rates that differ slightly from distance / time because of rounding.
+
+## License
+
+The source reports and the data transcribed from them are US Government works in the public
+domain; any rights in the transcription are dedicated under CC0 1.0. Passages the reports quote
+from other published works keep their own rights. See [`LICENSE`](LICENSE).

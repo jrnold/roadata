@@ -1,0 +1,19 @@
+Public domain
+
+The source documents in docs/ are reports of the US Army Concepts Analysis Agency by
+Robert L. Helmbold (CAA-RP-90-01, CAA-RP-90-03 and CAA-RP-90-04, 1990), approved for public
+release with distribution unlimited. As works of the United States Government they are not
+subject to copyright in the United States (17 U.S.C. 105).
+
+The data in data/ are transcribed from CAA-RP-90-04 and are in the public domain on the same
+basis. To the extent that any copyright or database right subsists in the transcription,
+compilation or arrangement of these files, it is dedicated to the public domain under the
+Creative Commons CC0 1.0 Universal Public Domain Dedication:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Third-party material: the reports quote and summarize other published works, for example the
+books excerpted in Appendix B (data/anecdotes.json) and the sources described in
+data/datasets.json. Those passages remain subject to whatever rights their authors and
+publishers hold; this notice does not grant rights in them.
+
+The data are provided as is, without warranty of any kind.
