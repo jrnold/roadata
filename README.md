@@ -2,13 +2,13 @@
 
 ## Sources
 
-The `docs/` directory holds three research papers by Robert L. Helmbold, US Army Concepts Analysis Agency (CAA), Bethesda, MD. All three are approved for public release.
+The `docs/` directory holds three research papers by Robert L. Helmbold, US Army Concepts Analysis Agency (CAA), Bethesda, MD. All three are approved for public release. DTIC's scans are mirrored on the Internet Archive (archive.org links below).
 
-  | File                                                 | DTIC accession | CAA report   | Title                                                                 | Date          | Pages |
-  | ---------------------------------------------------- | -------------- | ------------ | --------------------------------------------------------------------- | ------------- | ----- |
-  | [`docs/DTIC_ADA217891.pdf`](docs/DTIC_ADA217891.pdf) | ADA217891      | CAA-RP-90-03 | *A Survey of Past Work on Rates of Advance in Land Combat Operations* | February 1990 | 131   |
-  | [`docs/DTIC_ADA220426.pdf`](docs/DTIC_ADA220426.pdf) | ADA220426      | CAA-RP-90-04 | *A Compilation of Data on Rates of Advance in Land Combat Operations* | February 1990 | 428   |
-  | [`docs/DTIC_ADA225635.pdf`](docs/DTIC_ADA225635.pdf) | ADA225635      | CAA-RP-90-01 | *Rates of Advance in Historical Land Combat Operations*               | June 1990     | 160   |
+  | File                                                 | DTIC accession | CAA report   | Title                                                                 | Date          | Pages | Archive.org                                                  |
+  | ---------------------------------------------------- | -------------- | ------------ | --------------------------------------------------------------------- | ------------- | ----- | ------------------------------------------------------------ |
+  | [`docs/DTIC_ADA217891.pdf`](docs/DTIC_ADA217891.pdf) | ADA217891      | CAA-RP-90-03 | *A Survey of Past Work on Rates of Advance in Land Combat Operations* | February 1990 | 131   | [DTIC_ADA217891](https://archive.org/details/DTIC_ADA217891) |
+  | [`docs/DTIC_ADA220426.pdf`](docs/DTIC_ADA220426.pdf) | ADA220426      | CAA-RP-90-04 | *A Compilation of Data on Rates of Advance in Land Combat Operations* | February 1990 | 428   | [DTIC_ADA220426](https://archive.org/details/DTIC_ADA220426) |
+  | [`docs/DTIC_ADA225635.pdf`](docs/DTIC_ADA225635.pdf) | ADA225635      | CAA-RP-90-01 | *Rates of Advance in Historical Land Combat Operations*               | June 1990     | 160   | [DTIC_ADA225635](https://archive.org/details/DTIC_ADA225635) |
 
 ## Data
 
